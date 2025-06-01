@@ -1,0 +1,1 @@
+export type GeneralAreaHints = Record<string, string>;

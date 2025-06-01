@@ -1,79 +1,43 @@
 import act1ItemsData from "@/data/act1.min.json";
+import act2ItemsData from "@/data/act2.min.json";
+import act3ItemsData from "@/data/act3.min.json";
 import type { Item } from "@/types/item";
-import {
-  Card,
-  CardAction,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { CheckCheck } from "lucide-react";
-
-const act1Items: Item[] = act1ItemsData as Item[];
-const generalAreas = act1Items.reduce<string[]>((acc, item) => {
-  if (!acc.includes(item.generalArea)) {
-    acc.push(item.generalArea);
-  }
-  return acc;
-}, []);
-
-const act1ItemsGroupedByGeneralArea: Record<string, Item[]> = act1Items.reduce<
-  Record<string, Item[]>
->((acc, item) => {
-  acc[item.generalArea] ??= [];
-  acc[item.generalArea].push(item);
-  return acc;
-}, {});
+import { ActComponent } from "./components/ActComponent";
+import { Tabs, TabsList, TabsTrigger } from "./components/ui/tabs";
+import { TabsContent } from "@radix-ui/react-tabs";
+import { Button } from "./components/ui/button";
+import { ArrowUpToLine } from "lucide-react";
 
 function App() {
   return (
     <main className="container mx-auto py-8">
-      {generalAreas.map((generalArea) => (
-        <GeneralAresComponent
-          key={generalArea}
-          generalArea={generalArea}
-          items={act1ItemsGroupedByGeneralArea[generalArea]}
-        />
-      ))}
+      <Tabs defaultValue="act1">
+        <TabsList className="mb-6">
+          <TabsTrigger value="act1">Act 1</TabsTrigger>
+          <TabsTrigger value="act2">Act 2</TabsTrigger>
+          <TabsTrigger value="act3">Act 3</TabsTrigger>
+        </TabsList>
+        <TabsContent value="act1">
+          <ActComponent items={act1ItemsData as Item[]} act="1" />
+        </TabsContent>
+        <TabsContent value="act2">
+          <ActComponent items={act2ItemsData as Item[]} act="2" />
+        </TabsContent>
+        <TabsContent value="act3">
+          <ActComponent items={act3ItemsData as Item[]} act="3" />
+        </TabsContent>
+      </Tabs>
+      <footer className="mt-8 flex justify-center">
+        <Button
+          onClick={() => {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+          }}
+        >
+          <ArrowUpToLine />
+          Back to top
+        </Button>
+      </footer>
     </main>
-  );
-}
-
-function GeneralAresComponent({
-  generalArea,
-  items,
-}: {
-  generalArea: string;
-  items: Item[];
-}) {
-  return (
-    <div className="mb-8">
-      <h2 className="text-2xl font-bold mb-4">{generalArea}</h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        {items.map((item) => (
-          <Card key={item.id}>
-            <CardHeader>
-              <CardTitle>{item.name}</CardTitle>
-              <CardDescription>{item.type}</CardDescription>
-              <CardAction>
-                <Button variant="outline" size="icon">
-                  <CheckCheck />
-                </Button>
-              </CardAction>
-            </CardHeader>
-            <CardContent>
-              <p>{item.source}</p>
-            </CardContent>
-            <CardFooter>
-              <p className="text-muted-foreground">{item.location}</p>
-            </CardFooter>
-          </Card>
-        ))}
-      </div>
-    </div>
   );
 }
 

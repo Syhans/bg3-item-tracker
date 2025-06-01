@@ -1,0 +1,13 @@
+{
+  "Waukeen's Rest": "If you zone travel or long rest after visitig this area the first time, Gauntlet Yeva and Counsellor Florrick mentioned in the list will become unavailable.",
+  "Underdark": "There are four entrances to this zone: Central lair pit in the Whispering Depths X: 140 Y: -149, hidden elevator in the Zhentarim Basement X: 268 Y: -190, mushroom circle in the Overgrown Tunnel X: 98 Y: -283, and ladder in the Defiled Temple X: 441 Y: 98 (coordinates represent the locations of the zones' exits to the Underdark). With the latter being the starting point for this section's item progression.",
+  "Rosymorn Monastery": "The ceremonial weapons listed here are necessary to progress through Find the Blood of Lathander. You can collect them after acquiring the Dawnmaster's Crest.",
+  "Ruined Battlefield": "There are two entrances to this zone: Through Rosymorn Monastery Trail X: 144 Y: -129 and through Grymforge X: -596 Y: 383 (coordinates represent the locations of the zones' exits to the Ruined Battlefield). This zone's progression can start in several ways, please refer to the Seek Protection from the Shadow Curse quest for more information. The chosen progression for this list is starting from the Rosymorn Monastery Trail side.",
+  "Last Light Inn": "If you failed or missed the Save the Refugees quest in Act One, most tiefling NPCs and their quests will be absent from this area.",
+  "Reithwin Town": "This zone has many important named areas, so the table below will list their names in the location section as if they were a separate instance.",
+  "Grand Mausoleum": "Shadowfell choice has important Act Two consequences, please see Find the Nightsong and The Chosen of Shar for details (quests contain heavy spoilers).",
+  "Moonrise Towers": "It is advised to complete the Moonrise Towers Prison area before proceeding to Shadowfell, as friendly NPCs in prison will be unavailable after entering Shadowfell, which will fail the quests Rescue the Tieflings and Rescue Wulbren.",
+  "Wyrm's Rock Fortress": "If you are progressing Wyll's story, it is advised to complete the areas Iron Throne and Steel Watch Foundry and their respective quests before entering the top floor of the fortress and the Wyrmway.",
+  "Lower City": "This zone can be progressed in a multitude of ways, the table below is sorted following a rough progession from east to west, and then down to the sewers.",
+  "The High Hall": "This area is only accessible after travelling to the Morphic Pool at the very end of the game."
+}

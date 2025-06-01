@@ -1,17 +1,18 @@
 [
   {
-    "id": "act1-1",
+    "id": 0,
     "generalArea": "Prologue",
     "type": "Melee",
     "name": "Everburn Blade",
     "effect": [
+      "Effect",
       "Deal additional 1d4 Fire damage with this weapon"
     ],
     "source": "Commander Zhalk at the helm of the ship",
     "location": "Nautiloid X: -53 Y: 390"
   },
   {
-    "id": "act1-2",
+    "id": 1,
     "generalArea": "Prologue",
     "type": "Ring",
     "name": "Ring of Evasion",
@@ -22,7 +23,7 @@
     "location": "Campsite"
   },
   {
-    "id": "act1-3",
+    "id": 2,
     "generalArea": "Overgrown Ruins",
     "type": "Melee",
     "name": "The Watcher's Guide",
@@ -33,7 +34,7 @@
     "location": "Dank Crypt X: -293 Y: -325"
   },
   {
-    "id": "act1-4",
+    "id": 3,
     "generalArea": "Overgrown Ruins",
     "type": "Amulet",
     "name": "The Amulet of Lost Voices",
@@ -44,7 +45,7 @@
     "location": "Dank Crypt X: -293 Y: -233"
   },
   {
-    "id": "act1-5",
+    "id": 4,
     "generalArea": "Emerald Grove",
     "type": "Gloves",
     "name": "Gloves of Power",
@@ -56,7 +57,7 @@
     "location": "X: 208 Y: 427"
   },
   {
-    "id": "act1-6",
+    "id": 5,
     "generalArea": "Emerald Grove",
     "type": "Gloves",
     "name": "Hellrider's Pride",
@@ -68,7 +69,7 @@
     "location": "Secluded Chamber X: -53 Y: 67"
   },
   {
-    "id": "act1-7",
+    "id": 6,
     "generalArea": "Emerald Grove",
     "type": "Helm",
     "name": "Wapira's Crown",
@@ -79,7 +80,7 @@
     "location": "Secluded Chamber X: -53 Y: 67"
   },
   {
-    "id": "act1-8",
+    "id": 7,
     "generalArea": "Emerald Grove",
     "type": "Gloves",
     "name": "Gloves of Missile Snaring",
@@ -90,7 +91,7 @@
     "location": "X: 204 Y: 513"
   },
   {
-    "id": "act1-9",
+    "id": 8,
     "generalArea": "Emerald Grove",
     "type": "Melee",
     "name": "Dragon's Grasp",
@@ -101,7 +102,7 @@
     "location": "X: 204 Y: 513"
   },
   {
-    "id": "act1-10",
+    "id": 9,
     "generalArea": "Emerald Grove",
     "type": "Ring",
     "name": "Ring of Flinging",
@@ -112,7 +113,7 @@
     "location": "X: 204 Y: 513"
   },
   {
-    "id": "act1-11",
+    "id": 10,
     "generalArea": "Emerald Grove",
     "type": "Armour",
     "name": "Hedge Wanderer Armour",
@@ -124,7 +125,7 @@
     "location": "X: 204 Y: 513"
   },
   {
-    "id": "act1-12",
+    "id": 11,
     "generalArea": "Emerald Grove",
     "type": "Staff",
     "name": "Rain Dancer",
@@ -135,7 +136,7 @@
     "location": "X: 204 Y: 513"
   },
   {
-    "id": "act1-13",
+    "id": 12,
     "generalArea": "Emerald Grove",
     "type": "Ranged",
     "name": "Spellthief",
@@ -146,7 +147,7 @@
     "location": "X: 204 Y: 513"
   },
   {
-    "id": "act1-14",
+    "id": 13,
     "generalArea": "Emerald Grove",
     "type": "Staff",
     "name": "Corellon's Grace",
@@ -158,7 +159,7 @@
     "location": "X: 192 Y: 546"
   },
   {
-    "id": "act1-15",
+    "id": 14,
     "generalArea": "Emerald Grove",
     "type": "Shield",
     "name": "Safeguard Shield",
@@ -169,7 +170,7 @@
     "location": "X: 180 Y: 561"
   },
   {
-    "id": "act1-16",
+    "id": 15,
     "generalArea": "Emerald Grove",
     "type": "Ranged",
     "name": "Hunting Shortbow",
@@ -181,7 +182,7 @@
     "location": "X: 180 Y: 561"
   },
   {
-    "id": "act1-17",
+    "id": 16,
     "generalArea": "Emerald Grove",
     "type": "Ring",
     "name": "Shapeshifter's Boon Ring",
@@ -192,7 +193,7 @@
     "location": "X: 217 Y: 540"
   },
   {
-    "id": "act1-18",
+    "id": 17,
     "generalArea": "Emerald Grove",
     "type": "Ring",
     "name": "Ring of Protection",
@@ -203,7 +204,7 @@
     "location": "Tiefling Hideout X: 80 Y: 70"
   },
   {
-    "id": "act1-19",
+    "id": 18,
     "generalArea": "Emerald Grove",
     "type": "Helm",
     "name": "Key of the Ancients",
@@ -215,7 +216,7 @@
     "location": "Druids' Chambers X: -440 Y: -6"
   },
   {
-    "id": "act1-20",
+    "id": 19,
     "generalArea": "Emerald Grove",
     "type": "Staff",
     "name": "Nature's Snare",
@@ -226,7 +227,7 @@
     "location": "Underground Passage X: -425 Y: -200"
   },
   {
-    "id": "act1-21",
+    "id": 20,
     "generalArea": "Emerald Grove",
     "type": "Amulet",
     "name": "Komira's Locket",
@@ -237,7 +238,7 @@
     "location": "X: 262 Y: 542"
   },
   {
-    "id": "act1-22",
+    "id": 21,
     "generalArea": "Emerald Grove",
     "type": "Ring",
     "name": "The Whispering Promise",
@@ -248,7 +249,7 @@
     "location": "X: 260 Y: 511"
   },
   {
-    "id": "act1-23",
+    "id": 22,
     "generalArea": "Emerald Grove",
     "type": "Helm",
     "name": "Cap of Curing",
@@ -259,7 +260,7 @@
     "location": "X: 289 Y: 488"
   },
   {
-    "id": "act1-24",
+    "id": 23,
     "generalArea": "Emerald Grove",
     "type": "Amulet",
     "name": "Amulet of Silvanus",
@@ -270,7 +271,7 @@
     "location": "X: 262 Y: 481"
   },
   {
-    "id": "act1-25",
+    "id": 24,
     "generalArea": "Emerald Grove",
     "type": "Ring",
     "name": "Broodmother's Revenge",
@@ -281,7 +282,7 @@
     "location": "Inner Sanctum X: -463 Y: -28"
   },
   {
-    "id": "act1-26",
+    "id": 25,
     "generalArea": "Emerald Grove",
     "type": "Staff",
     "name": "Pale Oak",
@@ -293,7 +294,7 @@
     "location": "Inner Sanctum X: -463 Y: -28"
   },
   {
-    "id": "act1-27",
+    "id": 26,
     "generalArea": "Emerald Grove",
     "type": "Armour",
     "name": "Robe of Summer",
@@ -304,7 +305,7 @@
     "location": "Hidden Vault X: 183 Y: -82"
   },
   {
-    "id": "act1-28",
+    "id": 27,
     "generalArea": "Emerald Grove",
     "type": "Melee",
     "name": "Sorrow",
@@ -315,7 +316,7 @@
     "location": "Hidden Vault X: 183 Y: -82"
   },
   {
-    "id": "act1-29",
+    "id": 28,
     "generalArea": "Emerald Grove",
     "type": "Cape",
     "name": "The Deathstalker Mantle",
@@ -326,7 +327,7 @@
     "location": "Campsite"
   },
   {
-    "id": "act1-30",
+    "id": 29,
     "generalArea": "Secluded Cove",
     "type": "Ring",
     "name": "Ring of Colour Spray",
@@ -337,7 +338,7 @@
     "location": "X: 326 Y: 495"
   },
   {
-    "id": "act1-31",
+    "id": 30,
     "generalArea": "Roadside Cliffs",
     "type": "Amulet",
     "name": "Silver Pendant",
@@ -348,7 +349,7 @@
     "location": "X: 152 Y: 366"
   },
   {
-    "id": "act1-32",
+    "id": 31,
     "generalArea": "Forest",
     "type": "Gloves",
     "name": "Fleetfingers",
@@ -359,7 +360,7 @@
     "location": "X: 77 Y: 347"
   },
   {
-    "id": "act1-33",
+    "id": 32,
     "generalArea": "Forest",
     "type": "Amulet",
     "name": "Moondrop Pendant",
@@ -370,7 +371,7 @@
     "location": "Owlbear Nest X: -321 Y: -135"
   },
   {
-    "id": "act1-34",
+    "id": 33,
     "generalArea": "Forest",
     "type": "Melee",
     "name": "Vision of the Absolute",
@@ -382,7 +383,7 @@
     "location": "Owlbear Nest X: -351 Y: -116"
   },
   {
-    "id": "act1-35",
+    "id": 34,
     "generalArea": "Forest",
     "type": "Armour",
     "name": "The Oak Father's Embrace",
@@ -393,7 +394,7 @@
     "location": "Owlbear Nest X: -354 Y: -111"
   },
   {
-    "id": "act1-36",
+    "id": 35,
     "generalArea": "Blighted Village",
     "type": "Helm",
     "name": "Haste Helm",
@@ -404,7 +405,7 @@
     "location": "X: 32 Y: 403"
   },
   {
-    "id": "act1-37",
+    "id": 36,
     "generalArea": "Blighted Village",
     "type": "Helm",
     "name": "Warped Headband of Intellect",
@@ -415,7 +416,7 @@
     "location": "X: 13 Y: 366"
   },
   {
-    "id": "act1-38",
+    "id": 37,
     "generalArea": "Blighted Village",
     "type": "Melee",
     "name": "Very Heavy Greataxe",
@@ -426,7 +427,7 @@
     "location": "X: 10 Y: 420"
   },
   {
-    "id": "act1-39",
+    "id": 38,
     "generalArea": "Blighted Village",
     "type": "Feet",
     "name": "The Speedy Lightfeet",
@@ -437,7 +438,7 @@
     "location": "Windmill Cellar X: -711 Y: -412"
   },
   {
-    "id": "act1-40",
+    "id": 39,
     "generalArea": "Blighted Village",
     "type": "Melee",
     "name": "Steelforged Sword",
@@ -448,7 +449,29 @@
     "location": "Blacksmith's Forge X: -432 Y: -372"
   },
   {
-    "id": "act1-41",
+    "id": 40,
+    "generalArea": "Blighted Village",
+    "type": "Melee",
+    "name": "Sussur Greatsword",
+    "effect": [
+      "On a hit with this weapon, the target must succeed DC 12 Constitution save or get Silenced for 2 turns"
+    ],
+    "source": "Rewarded for Finish the Masterwork Weapon based on player's choice",
+    "location": "Blacksmith's Forge X: -447 Y: -378"
+  },
+  {
+    "id": 41,
+    "generalArea": "Blighted Village",
+    "type": "Melee",
+    "name": "Sussur Dagger",
+    "effect": [
+      "On a hit with this weapon, the target must succeed DC 12 Constitution save or get Silenced for 2 turns"
+    ],
+    "source": "Rewarded for Finish the Masterwork Weapon based on player's choice",
+    "location": "Blacksmith's Forge X: -447 Y: -378"
+  },
+  {
+    "id": 42,
     "generalArea": "Blighted Village",
     "type": "Melee",
     "name": "Sussur Sickle",
@@ -459,7 +482,7 @@
     "location": "Blacksmith's Forge X: -447 Y: -378"
   },
   {
-    "id": "act1-42",
+    "id": 43,
     "generalArea": "Blighted Village",
     "type": "Gloves",
     "name": "Bracers of Defence",
@@ -470,7 +493,7 @@
     "location": "Apothecary's Cellar X: -656 Y: -370"
   },
   {
-    "id": "act1-43",
+    "id": 44,
     "generalArea": "Blighted Village",
     "type": "Ring",
     "name": "Spurred Band",
@@ -481,7 +504,7 @@
     "location": "Whispering Depths X: -495 Y: -365"
   },
   {
-    "id": "act1-44",
+    "id": 45,
     "generalArea": "Blighted Village",
     "type": "Feet",
     "name": "Spiderstep Boots",
@@ -492,7 +515,7 @@
     "location": "Whispering Depths X: -514 Y: -411"
   },
   {
-    "id": "act1-45",
+    "id": 46,
     "generalArea": "Blighted Village",
     "type": "Armour",
     "name": "Poisoner's Robe",
@@ -503,7 +526,7 @@
     "location": "Underdark X: 140 Y: 151"
   },
   {
-    "id": "act1-46",
+    "id": 47,
     "generalArea": "Sunlit Wetlands",
     "type": "Ranged",
     "name": "Gandrel's Aspiration",
@@ -515,7 +538,7 @@
     "location": "X: -26 Y: 240"
   },
   {
-    "id": "act1-47",
+    "id": 48,
     "generalArea": "Sunlit Wetlands",
     "type": "Shield",
     "name": "Wood Woad Shield",
@@ -526,7 +549,7 @@
     "location": "X: 85 Y: 212"
   },
   {
-    "id": "act1-48",
+    "id": 49,
     "generalArea": "Sunlit Wetlands",
     "type": "Gloves",
     "name": "The Sparkle Hands",
@@ -538,7 +561,7 @@
     "location": "X: 95 Y: 210"
   },
   {
-    "id": "act1-49",
+    "id": 50,
     "generalArea": "Sunlit Wetlands",
     "type": "Amulet",
     "name": "Tarnished Charm",
@@ -549,7 +572,7 @@
     "location": "Overgrown Tunnel X: -412 Y: 577"
   },
   {
-    "id": "act1-50",
+    "id": 51,
     "generalArea": "Sunlit Wetlands",
     "type": "Amulet",
     "name": "The Ever-Seeing Eye",
@@ -560,7 +583,7 @@
     "location": "Overgrown Tunnel X: -416 Y: 599"
   },
   {
-    "id": "act1-51",
+    "id": 52,
     "generalArea": "Sunlit Wetlands",
     "type": "Staff",
     "name": "Staff of Crones",
@@ -571,7 +594,7 @@
     "location": "Overgrown Tunnel X: -416 Y: 599"
   },
   {
-    "id": "act1-52",
+    "id": 53,
     "generalArea": "The Risen Road",
     "type": "Ring",
     "name": "Smuggler's Ring",
@@ -583,7 +606,7 @@
     "location": "X: 57 Y: 514"
   },
   {
-    "id": "act1-53",
+    "id": 54,
     "generalArea": "The Risen Road",
     "type": "Melee",
     "name": "Sword of Justice",
@@ -594,7 +617,7 @@
     "location": "X: 110 Y: 560"
   },
   {
-    "id": "act1-54",
+    "id": 55,
     "generalArea": "The Risen Road",
     "type": "Gloves",
     "name": "Gloves of Heroism",
@@ -606,7 +629,7 @@
     "location": "Toll House Basement X: -674 Y: -401"
   },
   {
-    "id": "act1-55",
+    "id": 56,
     "generalArea": "The Risen Road",
     "type": "Melee",
     "name": "Speedy Reply",
@@ -617,7 +640,7 @@
     "location": "X: 25 Y: 603"
   },
   {
-    "id": "act1-56",
+    "id": 57,
     "generalArea": "The Risen Road",
     "type": "Melee",
     "name": "Shattered Flail",
@@ -628,7 +651,7 @@
     "location": "X: 32 Y: 602"
   },
   {
-    "id": "act1-57",
+    "id": 58,
     "generalArea": "The Risen Road",
     "type": "Gloves",
     "name": "Reason's Grasp",
@@ -639,9 +662,9 @@
     "location": "X: 37 Y: 644"
   },
   {
-    "id": "act1-58",
-    "generalArea": "Waukeen's Rest",
-    "type": "If you zone travel or long rest after visitig this area the first time, Gauntlet Yeva and Counsellor Florrick mentioned in the list will become unavailable.",
+    "id": 59,
+    "generalArea": "The Risen Road",
+    "type": "Armour",
     "name": "Infernal Robe",
     "effect": [
       "Cast Fire Shield (Warm) spell (level 4, long rest cd)",
@@ -652,7 +675,7 @@
     "location": "Campsite"
   },
   {
-    "id": "act1-59",
+    "id": 60,
     "generalArea": "Waukeen's Rest",
     "type": "Melee",
     "name": "Svartlebee's Woundseeker",
@@ -663,7 +686,7 @@
     "location": "X: -66 Y: 609"
   },
   {
-    "id": "act1-60",
+    "id": 61,
     "generalArea": "Waukeen's Rest",
     "type": "Melee",
     "name": "Hamarhraft",
@@ -674,7 +697,7 @@
     "location": "X: -85 Y: 631"
   },
   {
-    "id": "act1-61",
+    "id": 62,
     "generalArea": "Waukeen's Rest",
     "type": "Melee",
     "name": "The Sparky Points",
@@ -685,7 +708,7 @@
     "location": "X: -63 Y: 600"
   },
   {
-    "id": "act1-62",
+    "id": 63,
     "generalArea": "Waukeen's Rest",
     "type": "Ranged",
     "name": "The Joltshooter",
@@ -696,7 +719,7 @@
     "location": "X: -63 Y: 600"
   },
   {
-    "id": "act1-63",
+    "id": 64,
     "generalArea": "Waukeen's Rest",
     "type": "Staff",
     "name": "The Spellsparkler",
@@ -707,7 +730,7 @@
     "location": "X: -63 Y: 600"
   },
   {
-    "id": "act1-64",
+    "id": 65,
     "generalArea": "Waukeen's Rest",
     "type": "Ranged",
     "name": "Harold",
@@ -718,7 +741,7 @@
     "location": "Zhentarim Basement X: 277 Y: -249"
   },
   {
-    "id": "act1-65",
+    "id": 66,
     "generalArea": "Waukeen's Rest",
     "type": "Armour",
     "name": "The Jolty Vest",
@@ -730,7 +753,7 @@
     "location": "Zhentarim Basement X: 300 Y: -257"
   },
   {
-    "id": "act1-66",
+    "id": 67,
     "generalArea": "Waukeen's Rest",
     "type": "Ranged",
     "name": "Giantbreaker",
@@ -741,7 +764,7 @@
     "location": "Zhentarim Basement X: 300 Y: -257"
   },
   {
-    "id": "act1-67",
+    "id": 68,
     "generalArea": "Waukeen's Rest",
     "type": "Ranged",
     "name": "Titanstring Bow",
@@ -752,7 +775,7 @@
     "location": "Zhentarim Basement X: 300 Y: -257"
   },
   {
-    "id": "act1-68",
+    "id": 69,
     "generalArea": "Waukeen's Rest",
     "type": "Gloves",
     "name": "Gloves of Hail of Thorns",
@@ -763,7 +786,7 @@
     "location": "Zhentarim Basement X: 300 Y: -257"
   },
   {
-    "id": "act1-69",
+    "id": 70,
     "generalArea": "Waukeen's Rest",
     "type": "Gloves",
     "name": "Gloves of Thievery",
@@ -774,7 +797,7 @@
     "location": "Zhentarim Basement X: 300 Y: -257"
   },
   {
-    "id": "act1-70",
+    "id": 71,
     "generalArea": "Waukeen's Rest",
     "type": "Melee",
     "name": "Rupturing Blade",
@@ -785,7 +808,7 @@
     "location": "Zhentarim Basement X: 300 Y: -257"
   },
   {
-    "id": "act1-71",
+    "id": 72,
     "generalArea": "Waukeen's Rest",
     "type": "Gloves",
     "name": "Abyss Beckoners",
@@ -796,7 +819,7 @@
     "location": "Zhentarim Basement X: 306 Y: -170"
   },
   {
-    "id": "act1-72",
+    "id": 73,
     "generalArea": "Mountain Pass",
     "type": "Melee",
     "name": "Githyanki Greatsword (Unc)",
@@ -807,7 +830,7 @@
     "location": "X: -137 Y: 558"
   },
   {
-    "id": "act1-73",
+    "id": 74,
     "generalArea": "Mountain Pass",
     "type": "Melee",
     "name": "Githyanki Longsword (Unc)",
@@ -818,7 +841,7 @@
     "location": "X: -137 Y: 558"
   },
   {
-    "id": "act1-74",
+    "id": 75,
     "generalArea": "Mountain Pass",
     "type": "Ranged",
     "name": "Githyanki Crossbow",
@@ -829,7 +852,7 @@
     "location": "X: -137 Y: 558"
   },
   {
-    "id": "act1-75",
+    "id": 76,
     "generalArea": "Goblin Camp",
     "type": "Feet",
     "name": "Swiresy Shoes",
@@ -841,7 +864,7 @@
     "location": "X: -98 Y: 425"
   },
   {
-    "id": "act1-76",
+    "id": 77,
     "generalArea": "Goblin Camp",
     "type": "Gloves",
     "name": "Gloves of Archery",
@@ -852,7 +875,7 @@
     "location": "X: -98 Y: 425"
   },
   {
-    "id": "act1-77",
+    "id": 78,
     "generalArea": "Goblin Camp",
     "type": "Feet",
     "name": "Boots of Aid and Comfort",
@@ -863,7 +886,7 @@
     "location": "X: -98 Y: 425"
   },
   {
-    "id": "act1-78",
+    "id": 79,
     "generalArea": "Goblin Camp",
     "type": "Melee",
     "name": "Doom Hammer",
@@ -874,7 +897,7 @@
     "location": "X: -98 Y: 425"
   },
   {
-    "id": "act1-79",
+    "id": 80,
     "generalArea": "Goblin Camp",
     "type": "Melee",
     "name": "Returning Pike",
@@ -885,7 +908,7 @@
     "location": "X: -98 Y: 425"
   },
   {
-    "id": "act1-80",
+    "id": 81,
     "generalArea": "Goblin Camp",
     "type": "Ring",
     "name": "Crusher's Ring",
@@ -896,7 +919,7 @@
     "location": "X: -74 Y: 441"
   },
   {
-    "id": "act1-81",
+    "id": 82,
     "generalArea": "Goblin Camp",
     "type": "Shield",
     "name": "Glowing Shield",
@@ -907,7 +930,7 @@
     "location": "X: -53 Y: 461"
   },
   {
-    "id": "act1-82",
+    "id": 83,
     "generalArea": "Shattered Sanctum",
     "type": "Shield",
     "name": "Absolute's Warboard",
@@ -919,7 +942,7 @@
     "location": "X: 298 Y: -22\n X: 258 Y: -19"
   },
   {
-    "id": "act1-83",
+    "id": 84,
     "generalArea": "Shattered Sanctum",
     "type": "Amulet",
     "name": "Absolute's Talisman",
@@ -931,7 +954,7 @@
     "location": "X: 298 Y: -22\n X: 258 Y: -19"
   },
   {
-    "id": "act1-84",
+    "id": 85,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Blooded Greataxe",
@@ -942,7 +965,7 @@
     "location": "X: 275 Y: -29"
   },
   {
-    "id": "act1-85",
+    "id": 86,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Monster Slayer Glaive",
@@ -954,7 +977,7 @@
     "location": "X: 275 Y: -29"
   },
   {
-    "id": "act1-86",
+    "id": 87,
     "generalArea": "Shattered Sanctum",
     "type": "Staff",
     "name": "Gold Wyrmling Staff",
@@ -966,7 +989,7 @@
     "location": "X: 275 Y: -29"
   },
   {
-    "id": "act1-87",
+    "id": 88,
     "generalArea": "Shattered Sanctum",
     "type": "Ranged",
     "name": "Bow of Awareness",
@@ -977,7 +1000,7 @@
     "location": "X: 275 Y: -29"
   },
   {
-    "id": "act1-88",
+    "id": 89,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Hunter's Dagger",
@@ -988,7 +1011,7 @@
     "location": "X: 275 Y: -29"
   },
   {
-    "id": "act1-89",
+    "id": 90,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Jagged Spear",
@@ -999,7 +1022,7 @@
     "location": "X: 334 Y: -37"
   },
   {
-    "id": "act1-90",
+    "id": 91,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Loviatar's Scourge",
@@ -1010,7 +1033,7 @@
     "location": "X: 331 Y: -21"
   },
   {
-    "id": "act1-91",
+    "id": 92,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Ritual Dagger",
@@ -1022,7 +1045,7 @@
     "location": "X: 338 Y: -26"
   },
   {
-    "id": "act1-92",
+    "id": 93,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Ritual Axe",
@@ -1033,7 +1056,7 @@
     "location": "X: 338 Y: -26"
   },
   {
-    "id": "act1-93",
+    "id": 94,
     "generalArea": "Shattered Sanctum",
     "type": "Amulet",
     "name": "Amulet of Misty Step",
@@ -1044,7 +1067,7 @@
     "location": "Defiled Temple X: 391 Y: 10"
   },
   {
-    "id": "act1-94",
+    "id": 95,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Faithbreaker",
@@ -1055,7 +1078,7 @@
     "location": "X: 299 Y: 36"
   },
   {
-    "id": "act1-95",
+    "id": 96,
     "generalArea": "Shattered Sanctum",
     "type": "Amulet",
     "name": "Amulet of Selûne's Chosen",
@@ -1066,7 +1089,7 @@
     "location": "X: 298 Y: 69"
   },
   {
-    "id": "act1-96",
+    "id": 97,
     "generalArea": "Shattered Sanctum",
     "type": "Gloves",
     "name": "Gloves of the Growling Underdog",
@@ -1078,7 +1101,7 @@
     "location": "X: 298 Y: 69"
   },
   {
-    "id": "act1-97",
+    "id": 98,
     "generalArea": "Shattered Sanctum",
     "type": "Feet",
     "name": "Springstep Boots",
@@ -1089,7 +1112,7 @@
     "location": "X: 298 Y: 69"
   },
   {
-    "id": "act1-98",
+    "id": 99,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Assassin's Touch",
@@ -1100,7 +1123,7 @@
     "location": "X: 333 Y: 41"
   },
   {
-    "id": "act1-99",
+    "id": 100,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Xyanyde",
@@ -1111,7 +1134,7 @@
     "location": "X: 333 Y: 41"
   },
   {
-    "id": "act1-100",
+    "id": 101,
     "generalArea": "Shattered Sanctum",
     "type": "Armour",
     "name": "Spidersilk Armour",
@@ -1123,7 +1146,7 @@
     "location": "X: 333 Y: 41"
   },
   {
-    "id": "act1-101",
+    "id": 102,
     "generalArea": "Shattered Sanctum",
     "type": "Feet",
     "name": "Boots of Striding",
@@ -1135,7 +1158,7 @@
     "location": "X: 333 Y: 41"
   },
   {
-    "id": "act1-102",
+    "id": 103,
     "generalArea": "Shattered Sanctum",
     "type": "Feet",
     "name": "The Watersparkers",
@@ -1147,7 +1170,7 @@
     "location": "X: 333 Y: 41"
   },
   {
-    "id": "act1-103",
+    "id": 104,
     "generalArea": "Shattered Sanctum",
     "type": "Ring",
     "name": "Ring of Poison Resistance",
@@ -1158,7 +1181,7 @@
     "location": "X: 336 Y: 10"
   },
   {
-    "id": "act1-104",
+    "id": 105,
     "generalArea": "Shattered Sanctum",
     "type": "Amulet",
     "name": "Beastmaster's Chain",
@@ -1169,7 +1192,7 @@
     "location": "Worg Pens X: 379 Y: -43"
   },
   {
-    "id": "act1-105",
+    "id": 106,
     "generalArea": "Shattered Sanctum",
     "type": "Feet",
     "name": "Linebreaker Boots",
@@ -1180,7 +1203,7 @@
     "location": "Worg Pens X: 379 Y: -43"
   },
   {
-    "id": "act1-106",
+    "id": 107,
     "generalArea": "Shattered Sanctum",
     "type": "Melee",
     "name": "Worgfang",
@@ -1191,9 +1214,9 @@
     "location": "Worg Pens X: 385 Y: -14"
   },
   {
-    "id": "act1-107",
-    "generalArea": "Underdark",
-    "type": "There are four entrances to this zone: Central lair pit in the Whispering Depths X: 140 Y: -149, hidden elevator in the Zhentarim Basement X: 268 Y: -190, mushroom circle in the Overgrown Tunnel X: 98 Y: -283, and ladder in the Defiled Temple X: 441 Y: 98 (coordinates represent the locations of the zones' exits to the Underdark). With the latter being the starting point for this section's item progression.",
+    "id": 108,
+    "generalArea": "Shattered Sanctum",
+    "type": "Armour",
     "name": "Blazer of Benevolence",
     "effect": [
       "On inspiring others with Bardic Inspiration, you gain 4 temporary hit points"
@@ -1202,7 +1225,7 @@
     "location": "Campsite"
   },
   {
-    "id": "act1-108",
+    "id": 109,
     "generalArea": "Underdark",
     "type": "Helm",
     "name": "Helmet of Smiting",
@@ -1214,7 +1237,7 @@
     "location": "X: 163 Y: -248"
   },
   {
-    "id": "act1-109",
+    "id": 110,
     "generalArea": "Underdark",
     "type": "Armour",
     "name": "Luminous Armour",
@@ -1225,7 +1248,7 @@
     "location": "X: 176 Y: -247"
   },
   {
-    "id": "act1-110",
+    "id": 111,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Phalar Aluve",
@@ -1238,7 +1261,7 @@
     "location": "X: 116 Y: -192"
   },
   {
-    "id": "act1-111",
+    "id": 112,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Amulet of the Unworthy",
@@ -1250,7 +1273,7 @@
     "location": "X: 164 Y: -172"
   },
   {
-    "id": "act1-112",
+    "id": 113,
     "generalArea": "Underdark",
     "type": "Feet",
     "name": "Boots of Genial Striding",
@@ -1261,7 +1284,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-113",
+    "id": 114,
     "generalArea": "Underdark",
     "type": "Helm",
     "name": "Circlet of Blasting",
@@ -1272,7 +1295,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-114",
+    "id": 115,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "The Baneful",
@@ -1285,7 +1308,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-115",
+    "id": 116,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Psychic Spark",
@@ -1297,7 +1320,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-116",
+    "id": 117,
     "generalArea": "Underdark",
     "type": "Feet",
     "name": "Cinder Shoes",
@@ -1308,7 +1331,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-117",
+    "id": 118,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Sunwalker's Gift",
@@ -1319,7 +1342,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-118",
+    "id": 119,
     "generalArea": "Underdark",
     "type": "Helm",
     "name": "The Lifebringer",
@@ -1330,7 +1353,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-119",
+    "id": 120,
     "generalArea": "Underdark",
     "type": "Staff",
     "name": "Melf's First Staff",
@@ -1342,7 +1365,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-120",
+    "id": 121,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Ring of Mind-Shielding",
@@ -1353,7 +1376,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-121",
+    "id": 122,
     "generalArea": "Underdark",
     "type": "Staff",
     "name": "Creation's Echo",
@@ -1364,7 +1387,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-122",
+    "id": 123,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Pearl of Power Amulet",
@@ -1375,7 +1398,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-123",
+    "id": 124,
     "generalArea": "Underdark",
     "type": "Feet",
     "name": "Boots of Stormy Clamour",
@@ -1386,7 +1409,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-124",
+    "id": 125,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Ring of Salving",
@@ -1397,7 +1420,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-125",
+    "id": 126,
     "generalArea": "Underdark",
     "type": "Helm",
     "name": "The Shadespell Circlet",
@@ -1408,7 +1431,7 @@
     "location": "X: 107 Y: -88"
   },
   {
-    "id": "act1-126",
+    "id": 127,
     "generalArea": "Underdark",
     "type": "Feet",
     "name": "Boots of Speed",
@@ -1419,7 +1442,7 @@
     "location": "X: 82 Y: -99"
   },
   {
-    "id": "act1-127",
+    "id": 128,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Shortsword of First Blood",
@@ -1430,7 +1453,7 @@
     "location": "X: 73 Y: -186"
   },
   {
-    "id": "act1-128",
+    "id": 129,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Exterminator's Axe",
@@ -1441,7 +1464,7 @@
     "location": "X: 14 Y: -96"
   },
   {
-    "id": "act1-129",
+    "id": 130,
     "generalArea": "Underdark",
     "type": "Gloves",
     "name": "Winter's Clutches",
@@ -1452,7 +1475,7 @@
     "location": "X: 77 Y: -102"
   },
   {
-    "id": "act1-130",
+    "id": 131,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Envoy's Amulet",
@@ -1463,7 +1486,7 @@
     "location": "X: 77 Y: -102"
   },
   {
-    "id": "act1-131",
+    "id": 132,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Champion's Chain",
@@ -1474,7 +1497,7 @@
     "location": "X: 77 Y: -102"
   },
   {
-    "id": "act1-132",
+    "id": 133,
     "generalArea": "Underdark",
     "type": "Helm",
     "name": "Shadow of Menzoberranzan",
@@ -1485,7 +1508,7 @@
     "location": "X: 51 Y: -74"
   },
   {
-    "id": "act1-133",
+    "id": 134,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Amulet of Restoration",
@@ -1497,7 +1520,7 @@
     "location": "X: 56 Y: -96"
   },
   {
-    "id": "act1-134",
+    "id": 135,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Corrosive Flail",
@@ -1508,7 +1531,7 @@
     "location": "X: 56 Y: -96"
   },
   {
-    "id": "act1-135",
+    "id": 136,
     "generalArea": "Underdark",
     "type": "Gloves",
     "name": "Herbalist's Gloves",
@@ -1519,7 +1542,7 @@
     "location": "X: 56 Y: -96"
   },
   {
-    "id": "act1-136",
+    "id": 137,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Ring of Jumping",
@@ -1530,7 +1553,7 @@
     "location": "X: 56 Y: -96"
   },
   {
-    "id": "act1-137",
+    "id": 138,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Caustic Band",
@@ -1541,7 +1564,7 @@
     "location": "X: 56 Y: -96"
   },
   {
-    "id": "act1-138",
+    "id": 139,
     "generalArea": "Underdark",
     "type": "Gloves",
     "name": "Gloves of Uninhibited Kushigo",
@@ -1552,7 +1575,7 @@
     "location": "X: 56 Y: -96"
   },
   {
-    "id": "act1-139",
+    "id": 140,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Explorer's Ring",
@@ -1563,7 +1586,7 @@
     "location": "X: -12 Y: -52"
   },
   {
-    "id": "act1-140",
+    "id": 141,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "The Spectator Eyes",
@@ -1575,7 +1598,7 @@
     "location": "X: 119 Y: -248"
   },
   {
-    "id": "act1-141",
+    "id": 142,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "The Blast Pendant",
@@ -1586,7 +1609,7 @@
     "location": "X: 119 Y: -248"
   },
   {
-    "id": "act1-142",
+    "id": 143,
     "generalArea": "Underdark",
     "type": "Staff",
     "name": "Mourning Frost",
@@ -1600,7 +1623,7 @@
     "location": "X: 119 Y: -248"
   },
   {
-    "id": "act1-143",
+    "id": 144,
     "generalArea": "Underdark",
     "type": "Armour",
     "name": "Bloodguzzler Garb",
@@ -1611,7 +1634,7 @@
     "location": "X: 73 Y: -222"
   },
   {
-    "id": "act1-144",
+    "id": 145,
     "generalArea": "Underdark",
     "type": "Armour",
     "name": "Drow Studded Leather Armour",
@@ -1622,7 +1645,7 @@
     "location": "X: 71 Y: -220"
   },
   {
-    "id": "act1-145",
+    "id": 146,
     "generalArea": "Underdark",
     "type": "Helm",
     "name": "Helmet of Autonomy",
@@ -1633,7 +1656,7 @@
     "location": "X: 83 Y: -241"
   },
   {
-    "id": "act1-146",
+    "id": 147,
     "generalArea": "Underdark",
     "type": "Armour",
     "name": "Slippery Chain Shirt",
@@ -1644,7 +1667,7 @@
     "location": "The Festering Cove X: -403 Y: 327"
   },
   {
-    "id": "act1-147",
+    "id": 148,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Sickle of BOOOAL",
@@ -1655,7 +1678,7 @@
     "location": "The Festering Cove X: -420 Y: 285"
   },
   {
-    "id": "act1-148",
+    "id": 149,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Skybreaker",
@@ -1666,7 +1689,7 @@
     "location": "X: 26 Y: -294"
   },
   {
-    "id": "act1-149",
+    "id": 150,
     "generalArea": "Underdark",
     "type": "Amulet",
     "name": "Uncovered Mysteries",
@@ -1677,7 +1700,7 @@
     "location": "Arcane Tower X: -46 Y: -282"
   },
   {
-    "id": "act1-150",
+    "id": 151,
     "generalArea": "Underdark",
     "type": "Feet",
     "name": "Mystra's Grace",
@@ -1688,7 +1711,7 @@
     "location": "Arcane Tower X: -37 Y: -266"
   },
   {
-    "id": "act1-151",
+    "id": 152,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Mage's Friend",
@@ -1699,7 +1722,7 @@
     "location": "Arcane Tower X: -34 Y: -274"
   },
   {
-    "id": "act1-152",
+    "id": 153,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "Guiding Light",
@@ -1711,7 +1734,7 @@
     "location": "Arcane Tower X: -27 Y: -287"
   },
   {
-    "id": "act1-153",
+    "id": 154,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Light of Creation",
@@ -1722,7 +1745,7 @@
     "location": "Arcane Tower X: -27 Y: -287"
   },
   {
-    "id": "act1-154",
+    "id": 155,
     "generalArea": "Underdark",
     "type": "Melee",
     "name": "Club of Hill Giant Strength",
@@ -1733,7 +1756,7 @@
     "location": "Arcane Tower X: -30 Y: -274"
   },
   {
-    "id": "act1-155",
+    "id": 156,
     "generalArea": "Underdark",
     "type": "Staff",
     "name": "Staff of Arcane Blessing",
@@ -1745,7 +1768,7 @@
     "location": "Arcane Tower X: 164 Y: -432"
   },
   {
-    "id": "act1-156",
+    "id": 157,
     "generalArea": "Underdark",
     "type": "Ring",
     "name": "The Sparkswall",
@@ -1757,7 +1780,7 @@
     "location": "Arcane Tower X: 163 Y: -431"
   },
   {
-    "id": "act1-157",
+    "id": 158,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Jorgoral's Greatsword",
@@ -1768,7 +1791,7 @@
     "location": "Ebonlake X: -452 Y: -524 or\n Grymforge X: -632 Y: 326"
   },
   {
-    "id": "act1-158",
+    "id": 159,
     "generalArea": "Grymforge",
     "type": "Ranged",
     "name": "Bow of the Banshee",
@@ -1779,7 +1802,7 @@
     "location": "Ebonlake X: -452 Y: -524 or\n Grymforge X: -632 Y: 326"
   },
   {
-    "id": "act1-159",
+    "id": 160,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Shining Staver-of-Skulls",
@@ -1791,7 +1814,7 @@
     "location": "Ebonlake X: -452 Y: -524 or\n Grymforge X: -632 Y: 326"
   },
   {
-    "id": "act1-160",
+    "id": 161,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Intransigent Warhammer",
@@ -1802,7 +1825,7 @@
     "location": "Ebonlake X: -452 Y: -524"
   },
   {
-    "id": "act1-161",
+    "id": 162,
     "generalArea": "Grymforge",
     "type": "Gloves",
     "name": "Wondrous Gloves",
@@ -1814,7 +1837,7 @@
     "location": "X: -688 Y: 377"
   },
   {
-    "id": "act1-162",
+    "id": 163,
     "generalArea": "Grymforge",
     "type": "Armour",
     "name": "Dark Justiciar Mail",
@@ -1825,7 +1848,7 @@
     "location": "X: -650 Y: 422 or\n X: -609 Y: 246"
   },
   {
-    "id": "act1-163",
+    "id": 164,
     "generalArea": "Grymforge",
     "type": "Ranged",
     "name": "Sharran Crossbow",
@@ -1836,7 +1859,7 @@
     "location": "X: -669 Y: 401"
   },
   {
-    "id": "act1-164",
+    "id": 165,
     "generalArea": "Grymforge",
     "type": "Shield",
     "name": "The Real Sparky Sparkswall",
@@ -1847,7 +1870,7 @@
     "location": "X: -694 Y: 417"
   },
   {
-    "id": "act1-165",
+    "id": 166,
     "generalArea": "Grymforge",
     "type": "Armour",
     "name": "The Protecty Sparkswall",
@@ -1859,7 +1882,7 @@
     "location": "X: -645 Y: 360"
   },
   {
-    "id": "act1-166",
+    "id": 167,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Merregon Halberd",
@@ -1870,7 +1893,7 @@
     "location": "X: -576 Y: 383\n X: -643 Y: 215\n X: -601 Y: 199"
   },
   {
-    "id": "act1-167",
+    "id": 168,
     "generalArea": "Grymforge",
     "type": "Ranged",
     "name": "Firestoker",
@@ -1881,7 +1904,7 @@
     "location": "X: -574 Y: 382"
   },
   {
-    "id": "act1-168",
+    "id": 169,
     "generalArea": "Grymforge",
     "type": "Ring",
     "name": "Fetish of Callarduran Smoothhands",
@@ -1892,7 +1915,7 @@
     "location": "X: -609 Y: 410"
   },
   {
-    "id": "act1-169",
+    "id": 170,
     "generalArea": "Grymforge",
     "type": "Ring",
     "name": "Bracing Band",
@@ -1903,7 +1926,7 @@
     "location": "X: -630 Y: 317"
   },
   {
-    "id": "act1-170",
+    "id": 171,
     "generalArea": "Grymforge",
     "type": "Armour",
     "name": "Armour of Uninhibited Kushigo",
@@ -1914,7 +1937,7 @@
     "location": "X: -630 Y: 317"
   },
   {
-    "id": "act1-171",
+    "id": 172,
     "generalArea": "Grymforge",
     "type": "Ring",
     "name": "Ring of Absolute Force",
@@ -1926,7 +1949,7 @@
     "location": "X: -625 Y: 319"
   },
   {
-    "id": "act1-172",
+    "id": 173,
     "generalArea": "Grymforge",
     "type": "Feet",
     "name": "Boots of Speed",
@@ -1937,7 +1960,7 @@
     "location": "X: -625 Y: 319"
   },
   {
-    "id": "act1-173",
+    "id": 174,
     "generalArea": "Grymforge",
     "type": "Helm",
     "name": "Cap of Wrath",
@@ -1948,7 +1971,7 @@
     "location": "X: -625 Y: 319"
   },
   {
-    "id": "act1-174",
+    "id": 175,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Deep Delver",
@@ -1959,7 +1982,7 @@
     "location": "X: -625 Y: 319"
   },
   {
-    "id": "act1-175",
+    "id": 176,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Sword of Screams",
@@ -1970,7 +1993,7 @@
     "location": "X: -625 Y: 319"
   },
   {
-    "id": "act1-176",
+    "id": 177,
     "generalArea": "Grymforge",
     "type": "Feet",
     "name": "Disintegrating Night Walkers",
@@ -1982,7 +2005,7 @@
     "location": "X: -625 Y: 319"
   },
   {
-    "id": "act1-177",
+    "id": 178,
     "generalArea": "Grymforge",
     "type": "Helm",
     "name": "Dark Justiciar Mask",
@@ -1993,7 +2016,7 @@
     "location": "X: -620 Y: 258\n X: -590 Y: 299"
   },
   {
-    "id": "act1-178",
+    "id": 179,
     "generalArea": "Grymforge",
     "type": "Helm",
     "name": "Dark Justiciar Helm",
@@ -2005,7 +2028,7 @@
     "location": "X: -610 Y: 246"
   },
   {
-    "id": "act1-179",
+    "id": 180,
     "generalArea": "Grymforge",
     "type": "Amulet",
     "name": "Sentient Amulet (rare)",
@@ -2019,7 +2042,7 @@
     "location": "X: -627 Y: 224"
   },
   {
-    "id": "act1-180",
+    "id": 181,
     "generalArea": "Grymforge",
     "type": "Helm",
     "name": "Grymskull Helm",
@@ -2032,7 +2055,7 @@
     "location": "X: -545 Y: 229"
   },
   {
-    "id": "act1-181",
+    "id": 182,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Adamantine Mace",
@@ -2044,7 +2067,7 @@
     "location": "X: -558 Y: 230"
   },
   {
-    "id": "act1-182",
+    "id": 183,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Adamantine Longsword",
@@ -2056,7 +2079,7 @@
     "location": "X: -558 Y: 230"
   },
   {
-    "id": "act1-183",
+    "id": 184,
     "generalArea": "Grymforge",
     "type": "Melee",
     "name": "Adamantine Scimitar",
@@ -2068,7 +2091,7 @@
     "location": "X: -558 Y: 230"
   },
   {
-    "id": "act1-184",
+    "id": 185,
     "generalArea": "Grymforge",
     "type": "Shield",
     "name": "Adamantine Shield",
@@ -2081,7 +2104,7 @@
     "location": "X: -558 Y: 230"
   },
   {
-    "id": "act1-185",
+    "id": 186,
     "generalArea": "Grymforge",
     "type": "Armour",
     "name": "Adamantine Scale Mail",
@@ -2095,7 +2118,7 @@
     "location": "X: -558 Y: 230"
   },
   {
-    "id": "act1-186",
+    "id": 187,
     "generalArea": "Grymforge",
     "type": "Armour",
     "name": "Adamantine Splint Armour",
@@ -2109,7 +2132,7 @@
     "location": "X: -558 Y: 230"
   },
   {
-    "id": "act1-187",
+    "id": 188,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Amulet",
     "name": "Periapt of Wound Closure",
@@ -2121,7 +2144,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-188",
+    "id": 189,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Gloves",
     "name": "Gloves of Cinder and Sizzle",
@@ -2133,7 +2156,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-189",
+    "id": 190,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Armour",
     "name": "The Graceful Cloth",
@@ -2146,7 +2169,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-190",
+    "id": 191,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Staff",
     "name": "Cacophony",
@@ -2158,7 +2181,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-191",
+    "id": 192,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Gloves",
     "name": "Gloves of Baneful Striking",
@@ -2169,7 +2192,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-192",
+    "id": 193,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Gloves",
     "name": "Winter's Clutches",
@@ -2180,7 +2203,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-193",
+    "id": 194,
     "generalArea": "Rosymorn Mon. Trail",
     "type": "Feet",
     "name": "Boots of Elemental Momentum",
@@ -2192,9 +2215,9 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-194",
-    "generalArea": "Rosymorn Monastery",
-    "type": "The ceremonial weapons listed here are necessary to progress through Find the Blood of Lathander. You can collect them after acquiring the Dawnmaster's Crest.",
+    "id": 195,
+    "generalArea": "Rosymorn Mon. Trail",
+    "type": "Melee",
     "name": "Hoppy",
     "effect": [
       "Gain an action to strike the target, dealing additional Necrotic damage equal to your proficiency bonus and regaining 1d6 hit points (short rest cd)"
@@ -2203,7 +2226,7 @@
     "location": "X: -42 Y: -129"
   },
   {
-    "id": "act1-195",
+    "id": 196,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Ceremonial Mace",
@@ -2214,7 +2237,7 @@
     "location": "X: 45 Y: 37"
   },
   {
-    "id": "act1-196",
+    "id": 197,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Ceremonial Battleaxe",
@@ -2225,7 +2248,7 @@
     "location": "X: 105 Y: 44"
   },
   {
-    "id": "act1-197",
+    "id": 198,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Ceremonial Warhammer",
@@ -2236,7 +2259,7 @@
     "location": "X: 79 Y: 39"
   },
   {
-    "id": "act1-198",
+    "id": 199,
     "generalArea": "Rosymorn Monastery",
     "type": "Helm",
     "name": "Holy Lance Helm",
@@ -2248,7 +2271,7 @@
     "location": "X: 120 Y: 35"
   },
   {
-    "id": "act1-199",
+    "id": 200,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Ceremonial Longsword",
@@ -2259,7 +2282,7 @@
     "location": "X: 74 Y: 74"
   },
   {
-    "id": "act1-200",
+    "id": 201,
     "generalArea": "Rosymorn Monastery",
     "type": "Ring",
     "name": "Ring of Arcane Synergy",
@@ -2270,7 +2293,7 @@
     "location": "Crèche Y'llek X: 1358 Y: -821"
   },
   {
-    "id": "act1-201",
+    "id": 202,
     "generalArea": "Rosymorn Monastery",
     "type": "Gloves",
     "name": "Gloves of Dexterity",
@@ -2282,7 +2305,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-202",
+    "id": 203,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Knife of the Undermountain King",
@@ -2294,7 +2317,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-203",
+    "id": 204,
     "generalArea": "Rosymorn Monastery",
     "type": "Gloves",
     "name": "Daredevil Gloves",
@@ -2306,7 +2329,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-204",
+    "id": 205,
     "generalArea": "Rosymorn Monastery",
     "type": "Feet",
     "name": "Vital Conduit Boots",
@@ -2318,7 +2341,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-205",
+    "id": 206,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Defender Flail",
@@ -2330,7 +2353,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-206",
+    "id": 207,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Larethian's Wrath",
@@ -2342,7 +2365,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-207",
+    "id": 208,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Unseen Menace",
@@ -2354,7 +2377,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-208",
+    "id": 209,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Witchbreaker",
@@ -2365,7 +2388,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-209",
+    "id": 210,
     "generalArea": "Rosymorn Monastery",
     "type": "Amulet",
     "name": "Amulet of Branding",
@@ -2376,7 +2399,7 @@
     "location": "Crèche Y'llek X: 1387 Y: -821"
   },
   {
-    "id": "act1-210",
+    "id": 211,
     "generalArea": "Rosymorn Monastery",
     "type": "Ranged",
     "name": "Crossbow of Arcane Force",
@@ -2387,7 +2410,7 @@
     "location": "Crèche Y'llek X: 1382 Y: -815"
   },
   {
-    "id": "act1-211",
+    "id": 212,
     "generalArea": "Rosymorn Monastery",
     "type": "Ring",
     "name": "Ring of Elemental Infusion",
@@ -2398,7 +2421,7 @@
     "location": "Crèche Y'llek X: 1304 Y: -825"
   },
   {
-    "id": "act1-212",
+    "id": 213,
     "generalArea": "Rosymorn Monastery",
     "type": "Amulet",
     "name": "Aberration Hunters' Amulet",
@@ -2410,7 +2433,7 @@
     "location": "Crèche Y'llek X: 1288 Y: -807"
   },
   {
-    "id": "act1-213",
+    "id": 214,
     "generalArea": "Rosymorn Monastery",
     "type": "Feet",
     "name": "Varsh Ko'kuu's Boots",
@@ -2421,7 +2444,7 @@
     "location": "Crèche Y'llek X: 1292 Y: -759"
   },
   {
-    "id": "act1-214",
+    "id": 215,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Soulbreaker Greatsword",
@@ -2434,7 +2457,7 @@
     "location": "Crèche Y'llek X: 1408 Y: -767"
   },
   {
-    "id": "act1-215",
+    "id": 216,
     "generalArea": "Rosymorn Monastery",
     "type": "Gloves",
     "name": "Gloves of Belligerent Skies",
@@ -2445,7 +2468,7 @@
     "location": "Crèche Y'llek X: 1348 Y: -677"
   },
   {
-    "id": "act1-216",
+    "id": 217,
     "generalArea": "Rosymorn Monastery",
     "type": "Helm",
     "name": "Circlet of Psionic Revenge",
@@ -2457,7 +2480,7 @@
     "location": "Crèche Y'llek X: 1357 Y: -667"
   },
   {
-    "id": "act1-217",
+    "id": 218,
     "generalArea": "Rosymorn Monastery",
     "type": "Helm",
     "name": "Diadem of Arcane Synergy",
@@ -2468,7 +2491,7 @@
     "location": "Crèche Y'llek X: 1361 Y: -667"
   },
   {
-    "id": "act1-218",
+    "id": 219,
     "generalArea": "Rosymorn Monastery",
     "type": "Ring",
     "name": "Strange Conduit Ring",
@@ -2479,7 +2502,7 @@
     "location": "Crèche Y'llek X: 1358 Y: -663"
   },
   {
-    "id": "act1-219",
+    "id": 220,
     "generalArea": "Rosymorn Monastery",
     "type": "Amulet",
     "name": "Necklace of Elemental Augmentation",
@@ -2490,7 +2513,7 @@
     "location": "Crèche Y'llek X: 1381 Y: -662"
   },
   {
-    "id": "act1-220",
+    "id": 221,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "The Skinburster",
@@ -2501,7 +2524,7 @@
     "location": "Crèche Y'llek X: 1383 Y: -659"
   },
   {
-    "id": "act1-221",
+    "id": 222,
     "generalArea": "Rosymorn Monastery",
     "type": "Feet",
     "name": "Hoarfrost Boots",
@@ -2512,7 +2535,7 @@
     "location": "Crèche Y'llek X: 1335 Y: -660"
   },
   {
-    "id": "act1-222",
+    "id": 223,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "The Blood of Lathander",
@@ -2525,7 +2548,7 @@
     "location": "Secret Chamber X: 1068 Y: -779"
   },
   {
-    "id": "act1-223",
+    "id": 224,
     "generalArea": "Rosymorn Monastery",
     "type": "Melee",
     "name": "Voss' Silver Sword",

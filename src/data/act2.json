@@ -1,17 +1,18 @@
 [
   {
-    "id": "act2-1",
+    "id": 225,
     "generalArea": "Ruined Battlefield",
     "type": "Gloves",
     "name": "Thermoarcanic Gloves",
     "effect": [
+      "Effect",
       "When you deal Fire damage, once per attack, gain Heat for 2 turns"
     ],
     "source": "Kansif in the cultist camp or near the Harper ambush",
     "location": "X: 98 Y: -57\n X: 0 Y: -15"
   },
   {
-    "id": "act2-2",
+    "id": 226,
     "generalArea": "Ruined Battlefield",
     "type": "Amulet",
     "name": "Frost Prince",
@@ -22,7 +23,7 @@
     "location": "X: 80 Y: -96"
   },
   {
-    "id": "act2-3",
+    "id": 227,
     "generalArea": "Ruined Battlefield",
     "type": "Melee",
     "name": "Cruel Sting",
@@ -34,7 +35,7 @@
     "location": "X: 0 Y: -15"
   },
   {
-    "id": "act2-4",
+    "id": 228,
     "generalArea": "Ruined Battlefield",
     "type": "Melee",
     "name": "Moonlantern",
@@ -46,7 +47,7 @@
     "location": "X: 0 Y: -15"
   },
   {
-    "id": "act2-5",
+    "id": 229,
     "generalArea": "Ruined Battlefield",
     "type": "Amulet",
     "name": "Hammergrim Mist Amulet",
@@ -57,7 +58,7 @@
     "location": "X: -10 Y: -4"
   },
   {
-    "id": "act2-6",
+    "id": 230,
     "generalArea": "Ruined Battlefield",
     "type": "Gloves",
     "name": "Luminous Gloves",
@@ -69,7 +70,7 @@
     "location": "X: -53 Y: 9"
   },
   {
-    "id": "act2-7",
+    "id": 231,
     "generalArea": "Ruined Battlefield",
     "type": "Ring",
     "name": "Shadow-Cloaked Ring",
@@ -80,7 +81,7 @@
     "location": "X: -51 Y: 36"
   },
   {
-    "id": "act2-8",
+    "id": 232,
     "generalArea": "Ruined Battlefield",
     "type": "Ring",
     "name": "Ring of Twilight",
@@ -91,7 +92,7 @@
     "location": "X: -34 Y: -12"
   },
   {
-    "id": "act2-9",
+    "id": 233,
     "generalArea": "Ruined Battlefield",
     "type": "Shield",
     "name": "Gloomstrand Shield",
@@ -102,7 +103,7 @@
     "location": "X: -55 Y: -113"
   },
   {
-    "id": "act2-10",
+    "id": 234,
     "generalArea": "Ruined Battlefield",
     "type": "Ring",
     "name": "Ring of Shadows",
@@ -113,7 +114,7 @@
     "location": "X: 76 Y: 37"
   },
   {
-    "id": "act2-11",
+    "id": 235,
     "generalArea": "Ruined Battlefield",
     "type": "Ring",
     "name": "Ring of Mental Inhibition",
@@ -124,7 +125,7 @@
     "location": "X: 72 Y: 40"
   },
   {
-    "id": "act2-12",
+    "id": 236,
     "generalArea": "Ruined Battlefield",
     "type": "Melee",
     "name": "Ironwood Club",
@@ -135,7 +136,7 @@
     "location": "X: 44 Y: 59"
   },
   {
-    "id": "act2-13",
+    "id": 237,
     "generalArea": "Ruined Battlefield",
     "type": "Ring",
     "name": "Ring of Self Immolation",
@@ -146,7 +147,7 @@
     "location": "X: 27 Y: 63"
   },
   {
-    "id": "act2-14",
+    "id": 238,
     "generalArea": "Ruined Battlefield",
     "type": "Gloves",
     "name": "Raven Gloves",
@@ -157,7 +158,7 @@
     "location": "X: 128 Y: 110"
   },
   {
-    "id": "act2-15",
+    "id": 239,
     "generalArea": "Ruined Battlefield",
     "type": "Ring",
     "name": "Family Ring",
@@ -168,9 +169,9 @@
     "location": "X: 110 Y: 130"
   },
   {
-    "id": "act2-16",
-    "generalArea": "Last Light Inn",
-    "type": "If you failed or missed the Save the Refugees quest in Act One, most tiefling NPCs and their quests will be absent from this area.",
+    "id": 240,
+    "generalArea": "Ruined Battlefield",
+    "type": "Armour",
     "name": "Penumbral Armour",
     "effect": [
       "While being obscured, gain a +3 bonus to Stealth ability checks"
@@ -179,7 +180,7 @@
     "location": "X: 32 Y: 144"
   },
   {
-    "id": "act2-17",
+    "id": 241,
     "generalArea": "Last Light Inn",
     "type": "Shield",
     "name": "Shield of Devotion",
@@ -192,7 +193,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-18",
+    "id": 242,
     "generalArea": "Last Light Inn",
     "type": "Staff",
     "name": "Incandescent Staff",
@@ -206,7 +207,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-19",
+    "id": 243,
     "generalArea": "Last Light Inn",
     "type": "Amulet",
     "name": "Amulet of the Harpers",
@@ -218,7 +219,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-20",
+    "id": 244,
     "generalArea": "Last Light Inn",
     "type": "Gloves",
     "name": "Cindersnap Gloves",
@@ -229,7 +230,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-21",
+    "id": 245,
     "generalArea": "Last Light Inn",
     "type": "Gloves",
     "name": "Gloves of the Balanced Hands",
@@ -240,7 +241,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-22",
+    "id": 246,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Obsidian Laced Robe",
@@ -252,7 +253,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-23",
+    "id": 247,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "The Mighty Cloth",
@@ -266,7 +267,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-24",
+    "id": 248,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Yuan-Ti Scale Mail",
@@ -278,7 +279,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-25",
+    "id": 249,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Shadeclinger Armour",
@@ -290,7 +291,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-26",
+    "id": 250,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Barkskin Armour",
@@ -302,7 +303,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-27",
+    "id": 251,
     "generalArea": "Last Light Inn",
     "type": "Helm",
     "name": "Hat of Uninhibited Kushigo",
@@ -313,7 +314,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-28",
+    "id": 252,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Defender Greataxe",
@@ -324,7 +325,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-29",
+    "id": 253,
     "generalArea": "Last Light Inn",
     "type": "Cloak",
     "name": "Cloak of Protection",
@@ -335,7 +336,7 @@
     "location": "X: -27 Y: 132"
   },
   {
-    "id": "act2-30",
+    "id": 254,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Sword of Life Stealing",
@@ -346,7 +347,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-31",
+    "id": 255,
     "generalArea": "Last Light Inn",
     "type": "Gloves",
     "name": "Swordmaster Gloves",
@@ -358,7 +359,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-32",
+    "id": 256,
     "generalArea": "Last Light Inn",
     "type": "Ranged",
     "name": "Darkfire Shortbow",
@@ -370,7 +371,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-33",
+    "id": 257,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Harmonium Halberd",
@@ -382,7 +383,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-34",
+    "id": 258,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Charge-Bound Warhammer",
@@ -395,7 +396,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-35",
+    "id": 259,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Thermodynamo Axe",
@@ -406,7 +407,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-36",
+    "id": 260,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Sword of Clutching Umbra",
@@ -417,7 +418,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-37",
+    "id": 261,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Thorn Blade",
@@ -429,7 +430,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-38",
+    "id": 262,
     "generalArea": "Last Light Inn",
     "type": "Helm",
     "name": "Flawed Helldusk Helmet",
@@ -441,7 +442,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-39",
+    "id": 263,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Flawed Helldusk Armour",
@@ -454,7 +455,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-40",
+    "id": 264,
     "generalArea": "Last Light Inn",
     "type": "Gloves",
     "name": "Flawed Helldusk Gloves",
@@ -467,7 +468,7 @@
     "location": "X: -33 Y: 164"
   },
   {
-    "id": "act2-41",
+    "id": 265,
     "generalArea": "Last Light Inn",
     "type": "Feet",
     "name": "Evasive Shoes",
@@ -479,7 +480,7 @@
     "location": "X: -56 Y: 141"
   },
   {
-    "id": "act2-42",
+    "id": 266,
     "generalArea": "Last Light Inn",
     "type": "Cloak",
     "name": "Cloak of Cunning Brume",
@@ -490,7 +491,7 @@
     "location": "X: -56 Y: 141"
   },
   {
-    "id": "act2-43",
+    "id": 267,
     "generalArea": "Last Light Inn",
     "type": "Ring",
     "name": "Shapeshifter's Boon Ring",
@@ -501,7 +502,7 @@
     "location": "X: -28 Y: 170"
   },
   {
-    "id": "act2-44",
+    "id": 268,
     "generalArea": "Last Light Inn",
     "type": "Helm",
     "name": "Hat of Fire Acuity",
@@ -512,7 +513,7 @@
     "location": "X: -28 Y: 170"
   },
   {
-    "id": "act2-45",
+    "id": 269,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Rippling Force Mail",
@@ -524,7 +525,7 @@
     "location": "X: -22 Y: 175"
   },
   {
-    "id": "act2-46",
+    "id": 270,
     "generalArea": "Last Light Inn",
     "type": "Melee",
     "name": "Sylvan Scimitar",
@@ -535,7 +536,7 @@
     "location": "X: -63 Y: 144"
   },
   {
-    "id": "act2-47",
+    "id": 271,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Potent Robe",
@@ -548,7 +549,7 @@
     "location": "X: -64 Y: 141"
   },
   {
-    "id": "act2-48",
+    "id": 272,
     "generalArea": "Last Light Inn",
     "type": "Gloves",
     "name": "Gloves of the Automaton",
@@ -560,7 +561,7 @@
     "location": "X: -56 Y: 133"
   },
   {
-    "id": "act2-49",
+    "id": 273,
     "generalArea": "Last Light Inn",
     "type": "Feet",
     "name": "Acrobat Shoes",
@@ -572,7 +573,7 @@
     "location": "X: -56 Y: 133"
   },
   {
-    "id": "act2-50",
+    "id": 274,
     "generalArea": "Last Light Inn",
     "type": "Ring",
     "name": "Ring of Geniality",
@@ -583,7 +584,7 @@
     "location": "X: -56 Y: 133"
   },
   {
-    "id": "act2-51",
+    "id": 275,
     "generalArea": "Last Light Inn",
     "type": "Ring",
     "name": "Snowburst Ring",
@@ -594,7 +595,7 @@
     "location": "X: -80 Y: 158"
   },
   {
-    "id": "act2-52",
+    "id": 276,
     "generalArea": "Last Light Inn",
     "type": "Armour",
     "name": "Moon Devotion Robe",
@@ -609,7 +610,7 @@
     "location": "X: -60 Y: 158 or\n Mind Flayer Colony X: 861 Y: -23"
   },
   {
-    "id": "act2-53",
+    "id": 277,
     "generalArea": "Last Light Inn",
     "type": "Gloves",
     "name": "Jhannyl's Gloves",
@@ -621,7 +622,7 @@
     "location": "X: -60 Y: 158 or\n Mind Flayer Colony X: 861 Y: -23"
   },
   {
-    "id": "act2-54",
+    "id": 278,
     "generalArea": "Last Light Inn",
     "type": "Ring",
     "name": "Shifting Corpus Ring",
@@ -633,7 +634,7 @@
     "location": "X: -63 Y: 163"
   },
   {
-    "id": "act2-55",
+    "id": 279,
     "generalArea": "Last Light Inn",
     "type": "Ring",
     "name": "Coruscation Ring",
@@ -644,7 +645,7 @@
     "location": "Last Light Inn - Cellar X: 45 Y: -736"
   },
   {
-    "id": "act2-56",
+    "id": 280,
     "generalArea": "Last Light Inn",
     "type": "Helm",
     "name": "Covert Cowl",
@@ -656,9 +657,9 @@
     "location": "Last Light Inn - Cellar X: 33 Y: -697"
   },
   {
-    "id": "act2-57",
-    "generalArea": "Reithwin Town",
-    "type": "This zone has many important named areas, so the table below will list their names in the location section as if they were a separate instance.",
+    "id": 281,
+    "generalArea": "Last Light Inn",
+    "type": "Shield",
     "name": "Shield of Scorching Reprisal",
     "effect": [
       "Gain an action to expend your reaction and bash with this shield when hit by an enemy, knocking them Prone for 1 turn if they fail their Dexterity save against your spell save DC",
@@ -669,7 +670,7 @@
     "location": "X: -3 Y: 217"
   },
   {
-    "id": "act2-58",
+    "id": 282,
     "generalArea": "Reithwin Town",
     "type": "Melee",
     "name": "Twist of Fortune",
@@ -681,7 +682,7 @@
     "location": "Reithwin Tollhouse X: -110 Y: -93"
   },
   {
-    "id": "act2-59",
+    "id": 283,
     "generalArea": "Reithwin Town",
     "type": "Shield",
     "name": "Ironvine Shield",
@@ -692,7 +693,7 @@
     "location": "Reithwin Tollhouse X: -126 Y: -90"
   },
   {
-    "id": "act2-60",
+    "id": 284,
     "generalArea": "Reithwin Town",
     "type": "Gloves",
     "name": "Gloves of Battlemage's Power",
@@ -704,7 +705,7 @@
     "location": "Reithwin Tollhouse X: -82 Y: -90"
   },
   {
-    "id": "act2-61",
+    "id": 285,
     "generalArea": "Reithwin Town",
     "type": "Amulet",
     "name": "Fireheart",
@@ -715,7 +716,7 @@
     "location": "Reithwin Tollhouse X: -123 Y: -77"
   },
   {
-    "id": "act2-62",
+    "id": 286,
     "generalArea": "Reithwin Town",
     "type": "Melee",
     "name": "Rat Bat",
@@ -726,7 +727,7 @@
     "location": "The Waning Moon X: -224 Y: -76"
   },
   {
-    "id": "act2-63",
+    "id": 287,
     "generalArea": "Reithwin Town",
     "type": "Gloves",
     "name": "Ichorous Gloves",
@@ -737,7 +738,7 @@
     "location": "The Waning Moon X: -252 Y: -69"
   },
   {
-    "id": "act2-64",
+    "id": 288,
     "generalArea": "Reithwin Town",
     "type": "Melee",
     "name": "Punch-Drunk Bastard",
@@ -749,7 +750,7 @@
     "location": "The Waning Moon X: -257 Y: -90"
   },
   {
-    "id": "act2-65",
+    "id": 289,
     "generalArea": "Reithwin Town",
     "type": "Melee",
     "name": "Ritual Dagger of Shar",
@@ -760,7 +761,7 @@
     "location": "Sharran Sanctuary X: 250 Y: -847"
   },
   {
-    "id": "act2-66",
+    "id": 290,
     "generalArea": "Reithwin Town",
     "type": "Helm",
     "name": "Helmet of Arcane Acuity",
@@ -772,7 +773,7 @@
     "location": "Mason's Guild - Basement X: 107 Y: -758"
   },
   {
-    "id": "act2-67",
+    "id": 291,
     "generalArea": "Reithwin Town",
     "type": "Ring",
     "name": "True Love's Caress",
@@ -783,7 +784,7 @@
     "location": "Reithwin Graveyard X: -149 Y: 43"
   },
   {
-    "id": "act2-68",
+    "id": 292,
     "generalArea": "Reithwin Town",
     "type": "Feet",
     "name": "Boots of Apparent Death",
@@ -794,7 +795,7 @@
     "location": "Reithwin Graveyard X: -160 Y: 50"
   },
   {
-    "id": "act2-69",
+    "id": 293,
     "generalArea": "Reithwin Town",
     "type": "Armour",
     "name": "Icebite Robe",
@@ -806,7 +807,7 @@
     "location": "Reithwin Graveyard X: -155 Y: 71"
   },
   {
-    "id": "act2-70",
+    "id": 294,
     "generalArea": "Reithwin Town",
     "type": "Melee",
     "name": "Lightning Jabber",
@@ -818,7 +819,7 @@
     "location": "X: -148 Y: 115"
   },
   {
-    "id": "act2-71",
+    "id": 295,
     "generalArea": "Reithwin Town",
     "type": "Armour",
     "name": "Psionic Ward Armour",
@@ -831,7 +832,7 @@
     "location": "X: -249 Y: -34"
   },
   {
-    "id": "act2-72",
+    "id": 296,
     "generalArea": "Reithwin Town",
     "type": "Gloves",
     "name": "Hr'a'cknir Bracers",
@@ -843,7 +844,7 @@
     "location": "X: -249 Y: -34"
   },
   {
-    "id": "act2-73",
+    "id": 297,
     "generalArea": "Reithwin Town",
     "type": "Shield",
     "name": "Watcher's Shield",
@@ -854,7 +855,7 @@
     "location": "X: -248 Y: 36"
   },
   {
-    "id": "act2-74",
+    "id": 298,
     "generalArea": "Reithwin Town",
     "type": "Melee",
     "name": "Assassin's Shortsword",
@@ -865,7 +866,7 @@
     "location": "X: -248 Y: 36"
   },
   {
-    "id": "act2-75",
+    "id": 299,
     "generalArea": "Reithwin Town",
     "type": "Ring",
     "name": "True Love's Embrace",
@@ -876,7 +877,7 @@
     "location": "House of Healing X: -210 Y: 2"
   },
   {
-    "id": "act2-76",
+    "id": 300,
     "generalArea": "Reithwin Town",
     "type": "Amulet",
     "name": "Shar's Temptation",
@@ -887,7 +888,7 @@
     "location": "House of Healing X: -196 Y: 14"
   },
   {
-    "id": "act2-77",
+    "id": 301,
     "generalArea": "Reithwin Town",
     "type": "Amulet",
     "name": "Surgeon's Subjugation Amulet",
@@ -898,7 +899,7 @@
     "location": "House of Healing X: -200 Y: 47"
   },
   {
-    "id": "act2-78",
+    "id": 302,
     "generalArea": "Reithwin Town",
     "type": "Gloves",
     "name": "Poisoner's Gloves",
@@ -909,7 +910,7 @@
     "location": "House of Healing X: -197 Y: 76"
   },
   {
-    "id": "act2-79",
+    "id": 303,
     "generalArea": "Reithwin Town",
     "type": "Amulet",
     "name": "Strange Tendril Amulet",
@@ -920,7 +921,7 @@
     "location": "House of Healing Morgue X: 85 Y: -1005"
   },
   {
-    "id": "act2-80",
+    "id": 304,
     "generalArea": "Reithwin Town",
     "type": "Ring",
     "name": "Firzu's Ring of Trading",
@@ -931,7 +932,7 @@
     "location": "House of Healing Morgue X: 85 Y: -1005"
   },
   {
-    "id": "act2-81",
+    "id": 305,
     "generalArea": "Reithwin Town",
     "type": "Armour",
     "name": "Bided Time",
@@ -942,7 +943,7 @@
     "location": "House of Healing Morg. X: 46 Y: -1005"
   },
   {
-    "id": "act2-82",
+    "id": 306,
     "generalArea": "Reithwin Town",
     "type": "Ring",
     "name": "Eversight Ring",
@@ -953,7 +954,7 @@
     "location": "House of Healing Morg. X: 10 Y: -973"
   },
   {
-    "id": "act2-83",
+    "id": 307,
     "generalArea": "Reithwin Town",
     "type": "Cloak",
     "name": "Fleshmelter Cloak",
@@ -964,7 +965,7 @@
     "location": "House of Healing Morg. X: 33 Y: -931"
   },
   {
-    "id": "act2-84",
+    "id": 308,
     "generalArea": "Reithwin Town",
     "type": "Armour",
     "name": "Protective Plate",
@@ -975,9 +976,9 @@
     "location": "House of Healing Morg. X: 51 Y: -932"
   },
   {
-    "id": "act2-85",
-    "generalArea": "Grand Mausoleum",
-    "type": "Shadowfell choice has important Act Two consequences, please see Find the Nightsong and The Chosen of Shar for details (quests contain heavy spoilers).",
+    "id": 309,
+    "generalArea": "Reithwin Town",
+    "type": "Ring",
     "name": "Shadow Blade Ring",
     "effect": [
       "Cast Shadow Blade spell (short rest cd)"
@@ -986,7 +987,7 @@
     "location": "Campsite, next to Withers"
   },
   {
-    "id": "act2-86",
+    "id": 310,
     "generalArea": "Grand Mausoleum",
     "type": "Cloak",
     "name": "Vivacious Cloak",
@@ -997,7 +998,7 @@
     "location": "X: -259 Y: -882"
   },
   {
-    "id": "act2-87",
+    "id": 311,
     "generalArea": "Grand Mausoleum",
     "type": "Ranged",
     "name": "Least Expected",
@@ -1008,7 +1009,7 @@
     "location": "Gauntlet of Shar X: -730 Y: -802"
   },
   {
-    "id": "act2-88",
+    "id": 312,
     "generalArea": "Grand Mausoleum",
     "type": "Gloves",
     "name": "Dark Justiciar Gauntlets (uncommon)",
@@ -1020,7 +1021,7 @@
     "location": "Gauntlet of Shar X: -664 Y: -759"
   },
   {
-    "id": "act2-89",
+    "id": 313,
     "generalArea": "Grand Mausoleum",
     "type": "Melee",
     "name": "Merregon Halberd",
@@ -1031,7 +1032,7 @@
     "location": "Gauntlet of Shar X: -658 Y: 753"
   },
   {
-    "id": "act2-90",
+    "id": 314,
     "generalArea": "Grand Mausoleum",
     "type": "Ranged",
     "name": "Hellfire Hand Crossbow",
@@ -1043,7 +1044,7 @@
     "location": "Gauntlet of Shar X: -668 Y: -765"
   },
   {
-    "id": "act2-91",
+    "id": 315,
     "generalArea": "Grand Mausoleum",
     "type": "Feet",
     "name": "Boots of Brilliance",
@@ -1054,7 +1055,7 @@
     "location": "Gauntlet of Shar X: -634 Y: -724"
   },
   {
-    "id": "act2-92",
+    "id": 316,
     "generalArea": "Grand Mausoleum",
     "type": "Melee",
     "name": "Justiciar's Scimitar",
@@ -1066,7 +1067,7 @@
     "location": "Gauntlet of Shar X: -713 Y: -731"
   },
   {
-    "id": "act2-93",
+    "id": 317,
     "generalArea": "Grand Mausoleum",
     "type": "Shield",
     "name": "Justiciar's Greatshield",
@@ -1078,7 +1079,7 @@
     "location": "Gauntlet of Shar X: -713 Y: -731"
   },
   {
-    "id": "act2-94",
+    "id": 318,
     "generalArea": "Grand Mausoleum",
     "type": "Helm",
     "name": "Circle of Bones",
@@ -1090,7 +1091,7 @@
     "location": "Gauntlet of Shar X: -851 Y: -783 or\n Shadowfell X: -604 Y: -1431 or\n Mind Flayer Colony X: 715 Y: -49"
   },
   {
-    "id": "act2-95",
+    "id": 319,
     "generalArea": "Grand Mausoleum",
     "type": "Ring",
     "name": "Callous Glow Ring",
@@ -1101,7 +1102,7 @@
     "location": "Gauntlet of Shar X: -819 Y: -753"
   },
   {
-    "id": "act2-96",
+    "id": 320,
     "generalArea": "Grand Mausoleum",
     "type": "Ring",
     "name": "Killer's Sweetheart",
@@ -1112,7 +1113,7 @@
     "location": "Gauntlet of Shar X: -830 Y: -726"
   },
   {
-    "id": "act2-97",
+    "id": 321,
     "generalArea": "Grand Mausoleum",
     "type": "Armour",
     "name": "Dark Justiciar Half-Plate (rare)",
@@ -1125,7 +1126,7 @@
     "location": "Gauntlet of Shar X: -817 Y: -753"
   },
   {
-    "id": "act2-98",
+    "id": 322,
     "generalArea": "Grand Mausoleum",
     "type": "Melee",
     "name": "Spear of Night",
@@ -1137,7 +1138,7 @@
     "location": "Gauntlet of Shar X: -817 Y: -753"
   },
   {
-    "id": "act2-99",
+    "id": 323,
     "generalArea": "Grand Mausoleum",
     "type": "Helm",
     "name": "Dark Justiciar Helmet",
@@ -1150,7 +1151,7 @@
     "location": "Gauntlet of Shar X: -822 Y: -753"
   },
   {
-    "id": "act2-100",
+    "id": 324,
     "generalArea": "Grand Mausoleum",
     "type": "Helm",
     "name": "Dark Justiciar Helm",
@@ -1162,7 +1163,7 @@
     "location": "Shadowfell X: -544 Y: -1447 and X: -516 Y: -1397"
   },
   {
-    "id": "act2-101",
+    "id": 325,
     "generalArea": "Grand Mausoleum",
     "type": "Melee",
     "name": "Moonlight Glaive",
@@ -1175,7 +1176,7 @@
     "location": "Shadowfell X: -604 Y: -1431"
   },
   {
-    "id": "act2-102",
+    "id": 326,
     "generalArea": "Grand Mausoleum",
     "type": "Armour",
     "name": "Dark Justiciar Half-Plate (very rare)",
@@ -1189,7 +1190,7 @@
     "location": "Shadowfell X: -604 Y: -1431"
   },
   {
-    "id": "act2-103",
+    "id": 327,
     "generalArea": "Grand Mausoleum",
     "type": "Gloves",
     "name": "Dark Justiciar Gauntlets (rare)",
@@ -1202,7 +1203,7 @@
     "location": "Shadowfell X: -604 Y: -1431"
   },
   {
-    "id": "act2-104",
+    "id": 328,
     "generalArea": "Grand Mausoleum",
     "type": "Feet",
     "name": "Dark Justiciar Boots",
@@ -1214,7 +1215,7 @@
     "location": "Shadowfell X: -604 Y: -1431"
   },
   {
-    "id": "act2-105",
+    "id": 329,
     "generalArea": "Grand Mausoleum",
     "type": "Melee",
     "name": "Shar's Spear of Evening",
@@ -1228,9 +1229,9 @@
     "location": "Shadowfell X: -604 Y: -1431"
   },
   {
-    "id": "act2-106",
-    "generalArea": "Moonrise Towers",
-    "type": "It is advised to complete the Moonrise Towers Prison area before proceeding to Shadowfell, as friendly NPCs in prison will be unavailable after entering Shadowfell, which will fail the quests Rescue the Tieflings and Rescue Wulbren.",
+    "id": 330,
+    "generalArea": "Grand Mausoleum",
+    "type": "Melee",
     "name": "Selûne's Spear of Night",
     "effect": [
       "Advantage on Wisdom saving throws and Perception ability checks",
@@ -1242,7 +1243,7 @@
     "location": "Campsite"
   },
   {
-    "id": "act2-107",
+    "id": 331,
     "generalArea": "Moonrise Towers",
     "type": "Amulet",
     "name": "Spellcrux Amulet",
@@ -1253,7 +1254,7 @@
     "location": "Moonrise Towers Prison X: 576 Y: -654"
   },
   {
-    "id": "act2-108",
+    "id": 332,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Wulbren's Hammer",
@@ -1264,7 +1265,7 @@
     "location": "Moonrise Towers Prison X: 575 Y: -649"
   },
   {
-    "id": "act2-109",
+    "id": 333,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Browbeaten Circlet",
@@ -1275,7 +1276,7 @@
     "location": "Moonrise Towers Prison X: 572 Y: -652"
   },
   {
-    "id": "act2-110",
+    "id": 334,
     "generalArea": "Moonrise Towers",
     "type": "Armour",
     "name": "Sharpened Snare Cuirass",
@@ -1287,7 +1288,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-111",
+    "id": 335,
     "generalArea": "Moonrise Towers",
     "type": "Gloves",
     "name": "Gloves of Crushing",
@@ -1298,7 +1299,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-112",
+    "id": 336,
     "generalArea": "Moonrise Towers",
     "type": "Armour",
     "name": "Armour of Devotion",
@@ -1310,7 +1311,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-113",
+    "id": 337,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Drakethroat Glaive",
@@ -1322,7 +1323,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-114",
+    "id": 338,
     "generalArea": "Moonrise Towers",
     "type": "Ranged",
     "name": "Ne'er Misser",
@@ -1334,7 +1335,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-115",
+    "id": 339,
     "generalArea": "Moonrise Towers",
     "type": "Ring",
     "name": "Poisoner's Ring",
@@ -1345,7 +1346,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-116",
+    "id": 340,
     "generalArea": "Moonrise Towers",
     "type": "Ring",
     "name": "Ring of Spiteful Thunder",
@@ -1356,7 +1357,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-117",
+    "id": 341,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Marksmanship Hat",
@@ -1367,7 +1368,7 @@
     "location": "X: -174 Y: -179"
   },
   {
-    "id": "act2-118",
+    "id": 342,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Halberd of Vigilance",
@@ -1380,7 +1381,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-119",
+    "id": 343,
     "generalArea": "Moonrise Towers",
     "type": "Gloves",
     "name": "Gloves of The Duellist",
@@ -1391,7 +1392,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-120",
+    "id": 344,
     "generalArea": "Moonrise Towers",
     "type": "Shield",
     "name": "Sentinel Shield",
@@ -1403,7 +1404,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-121",
+    "id": 345,
     "generalArea": "Moonrise Towers",
     "type": "Armour",
     "name": "Enraging Heart Garb",
@@ -1415,7 +1416,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-122",
+    "id": 346,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Fistbreaker Helm",
@@ -1427,7 +1428,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-123",
+    "id": 347,
     "generalArea": "Moonrise Towers",
     "type": "Staff",
     "name": "Bigboy's Chew Toy",
@@ -1438,7 +1439,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-124",
+    "id": 348,
     "generalArea": "Moonrise Towers",
     "type": "Ranged",
     "name": "Titanstring Bow",
@@ -1449,7 +1450,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-125",
+    "id": 349,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Slicing Shortsword",
@@ -1460,7 +1461,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-126",
+    "id": 350,
     "generalArea": "Moonrise Towers",
     "type": "Gloves",
     "name": "Gauntlets of Surging Accuracy",
@@ -1471,7 +1472,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-127",
+    "id": 351,
     "generalArea": "Moonrise Towers",
     "type": "Armour",
     "name": "Dwarven Splintmail",
@@ -1485,7 +1486,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-128",
+    "id": 352,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Render of Mind and Body",
@@ -1496,7 +1497,7 @@
     "location": "X: -164 Y: -168"
   },
   {
-    "id": "act2-129",
+    "id": 353,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Circlet of Hunting",
@@ -1507,7 +1508,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-130",
+    "id": 354,
     "generalArea": "Moonrise Towers",
     "type": "Feet",
     "name": "Boots of Arcane Bolstering",
@@ -1518,7 +1519,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-131",
+    "id": 355,
     "generalArea": "Moonrise Towers",
     "type": "Ring",
     "name": "Risky Ring",
@@ -1529,7 +1530,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-132",
+    "id": 356,
     "generalArea": "Moonrise Towers",
     "type": "Ring",
     "name": "Ring of Free Action",
@@ -1540,7 +1541,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-133",
+    "id": 357,
     "generalArea": "Moonrise Towers",
     "type": "Armour",
     "name": "Robe of Exquisite Focus",
@@ -1551,7 +1552,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-134",
+    "id": 358,
     "generalArea": "Moonrise Towers",
     "type": "Cloak",
     "name": "Thunderskin Cloak",
@@ -1562,7 +1563,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-135",
+    "id": 359,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Hat of Storm Scion's Power",
@@ -1573,7 +1574,7 @@
     "location": "X: -128 Y: -193"
   },
   {
-    "id": "act2-136",
+    "id": 360,
     "generalArea": "Moonrise Towers",
     "type": "Shield",
     "name": "Absolute's Protector",
@@ -1586,7 +1587,7 @@
     "location": "Outside X: -152 Y: -123 or\n Main floor X: -148 Y: -169 or\n Upper floor X: -140 Y: -195"
   },
   {
-    "id": "act2-137",
+    "id": 361,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Argument Solver",
@@ -1597,7 +1598,7 @@
     "location": "X: -194 Y: -180"
   },
   {
-    "id": "act2-138",
+    "id": 362,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Very Heavy Greataxe",
@@ -1608,7 +1609,7 @@
     "location": "X: -152 Y: -191"
   },
   {
-    "id": "act2-139",
+    "id": 363,
     "generalArea": "Moonrise Towers",
     "type": "Cloak",
     "name": "Derivation Cloak",
@@ -1619,7 +1620,7 @@
     "location": "X: -135 Y: -174"
   },
   {
-    "id": "act2-140",
+    "id": 364,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Coldbrim Hat",
@@ -1630,7 +1631,7 @@
     "location": "X: -155 Y: -173"
   },
   {
-    "id": "act2-141",
+    "id": 365,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Shadow Lantern",
@@ -1642,7 +1643,7 @@
     "location": "X: -150 Y: -165"
   },
   {
-    "id": "act2-142",
+    "id": 366,
     "generalArea": "Moonrise Towers",
     "type": "Cloak",
     "name": "Cloak of Elemental Absorption",
@@ -1653,7 +1654,7 @@
     "location": "X: -166 Y: -169"
   },
   {
-    "id": "act2-143",
+    "id": 367,
     "generalArea": "Moonrise Towers",
     "type": "Amulet",
     "name": "Spineshudder Amulet",
@@ -1664,7 +1665,7 @@
     "location": "X: -171 Y: -195"
   },
   {
-    "id": "act2-144",
+    "id": 368,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Myrkulite Scourge",
@@ -1675,7 +1676,7 @@
     "location": "Upper floor X: -161 Y: -204\n Rooftop X: -152 Y: -181\n Prison X: 597 Y: -655 / X: 597 Y: -651\n Mind Flayer Colony X: -161 Y: -204"
   },
   {
-    "id": "act2-145",
+    "id": 369,
     "generalArea": "Moonrise Towers",
     "type": "Ring",
     "name": "Ring of Exalted Marrow",
@@ -1687,7 +1688,7 @@
     "location": "Rooftop X: -152 Y: -176"
   },
   {
-    "id": "act2-146",
+    "id": 370,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Blade of Oppressed Souls",
@@ -1699,7 +1700,7 @@
     "location": "Mind Flayer Colony X: 747 Y: -38"
   },
   {
-    "id": "act2-147",
+    "id": 371,
     "generalArea": "Moonrise Towers",
     "type": "Helm",
     "name": "Circlet of Mental Anguish",
@@ -1710,7 +1711,7 @@
     "location": "Mind Flayer Colony X: 747 Y: -38"
   },
   {
-    "id": "act2-148",
+    "id": 372,
     "generalArea": "Moonrise Towers",
     "type": "Gloves",
     "name": "Braindrain Gloves",
@@ -1721,7 +1722,7 @@
     "location": "Mind Flayer Colony X: 747 Y: -38"
   },
   {
-    "id": "act2-149",
+    "id": 373,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Infernal Rapier",
@@ -1734,7 +1735,7 @@
     "location": "Mind Flayer Colony X: 676 Y: 39"
   },
   {
-    "id": "act2-150",
+    "id": 374,
     "generalArea": "Moonrise Towers",
     "type": "Melee",
     "name": "Ketheric's Warhammer",
@@ -1745,7 +1746,7 @@
     "location": "Mind Flayer Colony X: 861 Y: -23"
   },
   {
-    "id": "act2-151",
+    "id": 375,
     "generalArea": "Moonrise Towers",
     "type": "Armour",
     "name": "Reaper's Embrace",
@@ -1759,7 +1760,7 @@
     "location": "Mind Flayer Colony X: 861 Y: -23"
   },
   {
-    "id": "act2-152",
+    "id": 376,
     "generalArea": "Moonrise Towers",
     "type": "Shield",
     "name": "Ketheric's Shield",
@@ -1772,7 +1773,7 @@
     "location": "Mind Flayer Colony X: 861 Y: -23"
   },
   {
-    "id": "act2-153",
+    "id": 377,
     "generalArea": "Other",
     "type": "Melee",
     "name": "Devotee's Mace",

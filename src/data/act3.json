@@ -1,17 +1,18 @@
 [
   {
-    "id": "act3-1",
+    "id": 378,
     "generalArea": "Astral Plane",
     "type": "Feet",
     "name": "Boots of Uninhibited Kushigo",
     "effect": [
+      "Effect",
       "Deal additional damage equal to your Wisdom modifier with unarmed attacks"
     ],
     "source": "Prelate Lir'i'c near the prison",
     "location": "X: -163 Y: -1158"
   },
   {
-    "id": "act3-2",
+    "id": 379,
     "generalArea": "Astral Plane",
     "type": "Staff",
     "name": "Staff of the Emperor",
@@ -22,7 +23,7 @@
     "location": "X: -160 Y: -1165"
   },
   {
-    "id": "act3-3",
+    "id": 380,
     "generalArea": "Astral Plane",
     "type": "Ring",
     "name": "Orphic Ring",
@@ -33,7 +34,7 @@
     "location": "X: 53 Y: 3238"
   },
   {
-    "id": "act3-4",
+    "id": 381,
     "generalArea": "Rivington",
     "type": "Ring",
     "name": "Shapeshifter's Boon Ring",
@@ -44,7 +45,7 @@
     "location": "X: 39 Y: -149"
   },
   {
-    "id": "act3-5",
+    "id": 382,
     "generalArea": "Rivington",
     "type": "Helm",
     "name": "Hat of Fire Acuity",
@@ -55,7 +56,7 @@
     "location": "X: 39 Y: -149"
   },
   {
-    "id": "act3-6",
+    "id": 383,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Dwarven Thrower",
@@ -67,7 +68,7 @@
     "location": "X: 43 Y: -101"
   },
   {
-    "id": "act3-7",
+    "id": 384,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Cold Snap",
@@ -79,7 +80,7 @@
     "location": "X: 43 Y: -101"
   },
   {
-    "id": "act3-8",
+    "id": 385,
     "generalArea": "Rivington",
     "type": "Ranged",
     "name": "Hellrider Longbow",
@@ -91,7 +92,7 @@
     "location": "X: 43 Y: -101"
   },
   {
-    "id": "act3-9",
+    "id": 386,
     "generalArea": "Rivington",
     "type": "Cloak",
     "name": "Nymph Cloak",
@@ -102,7 +103,7 @@
     "location": "X: 43 Y: -101"
   },
   {
-    "id": "act3-10",
+    "id": 387,
     "generalArea": "Rivington",
     "type": "Armour",
     "name": "Robe of Supreme Defences",
@@ -113,7 +114,7 @@
     "location": "X: 43 Y: -101"
   },
   {
-    "id": "act3-11",
+    "id": 388,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Sethan",
@@ -125,7 +126,7 @@
     "location": "X: 43 Y: -101"
   },
   {
-    "id": "act3-12",
+    "id": 389,
     "generalArea": "Rivington",
     "type": "Amulet",
     "name": "Corvid Token",
@@ -138,7 +139,7 @@
     "location": "X: 56 Y: -120"
   },
   {
-    "id": "act3-13",
+    "id": 390,
     "generalArea": "Rivington",
     "type": "Helm",
     "name": "Scabby Pugilist Circlet",
@@ -149,7 +150,7 @@
     "location": "X: 56 Y: -120"
   },
   {
-    "id": "act3-14",
+    "id": 391,
     "generalArea": "Rivington",
     "type": "Ring",
     "name": "Ring of Truthfulness",
@@ -160,7 +161,7 @@
     "location": "Windmill Basement X: -231 Y: -802"
   },
   {
-    "id": "act3-15",
+    "id": 392,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "The Undead Bane",
@@ -172,7 +173,7 @@
     "location": "X: 100 Y: -17"
   },
   {
-    "id": "act3-16",
+    "id": 393,
     "generalArea": "Rivington",
     "type": "Feet",
     "name": "Boots of Very Fast Blinking",
@@ -184,7 +185,7 @@
     "location": "X: -67 Y: -73"
   },
   {
-    "id": "act3-17",
+    "id": 394,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Comeback Handaxe",
@@ -195,7 +196,7 @@
     "location": "X: -67 Y: -73"
   },
   {
-    "id": "act3-18",
+    "id": 395,
     "generalArea": "Rivington",
     "type": "Cloak",
     "name": "Reverse Rain Cloak",
@@ -206,7 +207,7 @@
     "location": "X: -67 Y: -73"
   },
   {
-    "id": "act3-19",
+    "id": 396,
     "generalArea": "Rivington",
     "type": "Staff",
     "name": "Staff of a Mumbling Wizard",
@@ -218,7 +219,7 @@
     "location": "X: -67 Y: -73"
   },
   {
-    "id": "act3-20",
+    "id": 397,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Unlucky Thief's Gloves",
@@ -230,7 +231,7 @@
     "location": "X: -67 Y: -73"
   },
   {
-    "id": "act3-21",
+    "id": 398,
     "generalArea": "Rivington",
     "type": "Ring",
     "name": "Djinni Ring",
@@ -242,7 +243,7 @@
     "location": "X: -67 Y: -73"
   },
   {
-    "id": "act3-22",
+    "id": 399,
     "generalArea": "Rivington",
     "type": "Ring",
     "name": "Band of the Mystic Scoundrel",
@@ -253,7 +254,7 @@
     "location": "Jungle X: -1564 Y: -1521"
   },
   {
-    "id": "act3-23",
+    "id": 400,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Nyrulna",
@@ -269,7 +270,7 @@
     "location": "Jungle X: -1512 Y: -1523"
   },
   {
-    "id": "act3-24",
+    "id": 401,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Dark Displacement Gloves",
@@ -281,7 +282,7 @@
     "location": "X: -90 Y: -56"
   },
   {
-    "id": "act3-25",
+    "id": 402,
     "generalArea": "Rivington",
     "type": "Helm",
     "name": "The Pointy Hat",
@@ -292,7 +293,7 @@
     "location": "X: -85 Y: -24"
   },
   {
-    "id": "act3-26",
+    "id": 403,
     "generalArea": "Rivington",
     "type": "Staff",
     "name": "Hollow's Staff",
@@ -305,7 +306,7 @@
     "location": "X: -82 Y: -33"
   },
   {
-    "id": "act3-27",
+    "id": 404,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Spellmight Gloves",
@@ -316,7 +317,7 @@
     "location": "X: -82 Y: -33"
   },
   {
-    "id": "act3-28",
+    "id": 405,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Clown Hammer",
@@ -327,7 +328,7 @@
     "location": "X: -43 Y: -35"
   },
   {
-    "id": "act3-29",
+    "id": 406,
     "generalArea": "Rivington",
     "type": "Shield",
     "name": "Swires' Sledboard",
@@ -339,7 +340,7 @@
     "location": "X: 7 Y: -34"
   },
   {
-    "id": "act3-30",
+    "id": 407,
     "generalArea": "Rivington",
     "type": "Armour",
     "name": "Bonespike Garb",
@@ -351,7 +352,7 @@
     "location": "X: 7 Y: -34"
   },
   {
-    "id": "act3-31",
+    "id": 408,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "The Dancing Breeze",
@@ -362,7 +363,7 @@
     "location": "X: 7 Y: -34"
   },
   {
-    "id": "act3-32",
+    "id": 409,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Stalker Gloves",
@@ -374,7 +375,7 @@
     "location": "X: 7 Y: -34"
   },
   {
-    "id": "act3-33",
+    "id": 410,
     "generalArea": "Rivington",
     "type": "Armour",
     "name": "Elven Chain",
@@ -386,7 +387,7 @@
     "location": "X: 7 Y: -34"
   },
   {
-    "id": "act3-34",
+    "id": 411,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Ambusher",
@@ -398,7 +399,7 @@
     "location": "X: 7 Y: -34"
   },
   {
-    "id": "act3-35",
+    "id": 412,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Seraphic Pugilist Gloves",
@@ -410,7 +411,7 @@
     "location": "X: -87 Y: -7"
   },
   {
-    "id": "act3-36",
+    "id": 413,
     "generalArea": "Rivington",
     "type": "Ring",
     "name": "Ring of Blink",
@@ -421,7 +422,7 @@
     "location": "X: -45 Y: -5"
   },
   {
-    "id": "act3-37",
+    "id": 414,
     "generalArea": "Rivington",
     "type": "Amulet",
     "name": "Tressym Collar",
@@ -432,7 +433,7 @@
     "location": "X: -45 Y: -5"
   },
   {
-    "id": "act3-38",
+    "id": 415,
     "generalArea": "Rivington",
     "type": "Amulet",
     "name": "Sentient Amulet (very rare)",
@@ -444,7 +445,7 @@
     "location": "Open Hand Temple Cellar X: -7 Y: -1004"
   },
   {
-    "id": "act3-39",
+    "id": 416,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Stillmaker",
@@ -455,7 +456,7 @@
     "location": "Under Temple Cave X: 65 Y: -1019"
   },
   {
-    "id": "act3-40",
+    "id": 417,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Martial Exertion Gloves",
@@ -466,7 +467,7 @@
     "location": "Angleiron's Cellar X: -244 Y: -1069"
   },
   {
-    "id": "act3-41",
+    "id": 418,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Thunderpalm Strikers",
@@ -478,7 +479,7 @@
     "location": "Angleiron's Cellar X: -244 Y: -1069"
   },
   {
-    "id": "act3-42",
+    "id": 419,
     "generalArea": "Rivington",
     "type": "Gloves",
     "name": "Nimblefinger Gloves",
@@ -490,7 +491,7 @@
     "location": "Angleiron's Cellar X: -244 Y: -1069"
   },
   {
-    "id": "act3-43",
+    "id": 420,
     "generalArea": "Rivington",
     "type": "Amulet",
     "name": "Necklace of Elemental Augmentation",
@@ -501,7 +502,7 @@
     "location": "X: -97 Y: 107"
   },
   {
-    "id": "act3-44",
+    "id": 421,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Gleamdance Dagger",
@@ -513,7 +514,7 @@
     "location": "X: -217 Y: 97"
   },
   {
-    "id": "act3-45",
+    "id": 422,
     "generalArea": "Rivington",
     "type": "Melee",
     "name": "Corpsegrinder",
@@ -525,7 +526,7 @@
     "location": "X: -219 Y: 105"
   },
   {
-    "id": "act3-46",
+    "id": 423,
     "generalArea": "Rivington",
     "type": "Feet",
     "name": "Bonespike Boots",
@@ -538,7 +539,7 @@
     "location": "Western Beach Passageway X: -1341 Y: -856"
   },
   {
-    "id": "act3-47",
+    "id": 424,
     "generalArea": "Wyrm's Crossing",
     "type": "Armour",
     "name": "Scarlet Leather Armour",
@@ -549,7 +550,7 @@
     "location": "X: -20 Y: 79"
   },
   {
-    "id": "act3-48",
+    "id": 425,
     "generalArea": "Wyrm's Crossing",
     "type": "Amulet",
     "name": "Amulet of the Drunkard",
@@ -560,7 +561,7 @@
     "location": "X: 21 Y: 85"
   },
   {
-    "id": "act3-49",
+    "id": 426,
     "generalArea": "Wyrm's Crossing",
     "type": "Melee",
     "name": "Voss' Silver Sword",
@@ -573,7 +574,7 @@
     "location": "X: 25 Y: 98"
   },
   {
-    "id": "act3-50",
+    "id": 427,
     "generalArea": "Wyrm's Crossing",
     "type": "Melee",
     "name": "Silver Sword of the Astral Plane",
@@ -586,7 +587,7 @@
     "location": "X: 25 Y: 98"
   },
   {
-    "id": "act3-51",
+    "id": 428,
     "generalArea": "Wyrm's Crossing",
     "type": "Gloves",
     "name": "Gauntlets of the Warmaster",
@@ -598,7 +599,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-52",
+    "id": 429,
     "generalArea": "Wyrm's Crossing",
     "type": "Helm",
     "name": "Horns of the Berserker",
@@ -610,7 +611,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-53",
+    "id": 430,
     "generalArea": "Wyrm's Crossing",
     "type": "Ranged",
     "name": "Blightbringer",
@@ -622,7 +623,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-54",
+    "id": 431,
     "generalArea": "Wyrm's Crossing",
     "type": "Gloves",
     "name": "Snow-Dusted Monastery Gloves",
@@ -634,7 +635,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-55",
+    "id": 432,
     "generalArea": "Wyrm's Crossing",
     "type": "Cloak",
     "name": "Cloak of Displacement",
@@ -645,7 +646,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-56",
+    "id": 433,
     "generalArea": "Wyrm's Crossing",
     "type": "Armour",
     "name": "Garb of the Land and Sky",
@@ -658,7 +659,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-57",
+    "id": 434,
     "generalArea": "Wyrm's Crossing",
     "type": "Melee",
     "name": "Harmonic Dueller",
@@ -669,7 +670,7 @@
     "location": "X: -11 Y: 140"
   },
   {
-    "id": "act3-58",
+    "id": 435,
     "generalArea": "Wyrm's Crossing",
     "type": "Amulet",
     "name": "Absolute Confidence Amulet",
@@ -681,9 +682,9 @@
     "location": "X: 19 Y: 130"
   },
   {
-    "id": "act3-59",
-    "generalArea": "Wyrm's Rock Fortress",
-    "type": "If you are progressing Wyll's story, it is advised to complete the areas Iron Throne and Steel Watch Foundry and their respective quests before entering the top floor of the fortress and the Wyrmway.",
+    "id": 436,
+    "generalArea": "Wyrm's Crossing",
+    "type": "Ring",
     "name": "Seemingly Gleaming Ring",
     "effect": [
       "Charisma saving throws +1",
@@ -693,7 +694,7 @@
     "location": "X: 19 Y: 130"
   },
   {
-    "id": "act3-60",
+    "id": 437,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Armour",
     "name": "Flame Enamelled Armour",
@@ -707,7 +708,18 @@
     "location": "X: -28 Y: 184"
   },
   {
-    "id": "act3-61",
+    "id": 438,
+    "generalArea": "Wyrm's Rock Fortress",
+    "type": "Melee",
+    "name": "Infernal Spear",
+    "effect": [
+      "Deal additional 3 Poison damage with this weapon"
+    ],
+    "source": "Iron Consuls Mian and Nuff in the throne room on the first floor of the fortress",
+    "location": "X: -6 Y: 208"
+  },
+  {
+    "id": 439,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Melee",
     "name": "Infernal Mace",
@@ -718,7 +730,7 @@
     "location": "X: -6 Y: 208"
   },
   {
-    "id": "act3-62",
+    "id": 440,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Armour",
     "name": "Emblazoned Plate of the Marshal",
@@ -732,7 +744,7 @@
     "location": "X: -6 Y: 208"
   },
   {
-    "id": "act3-63",
+    "id": 441,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Melee",
     "name": "Duke Ravengard's Longsword",
@@ -745,7 +757,7 @@
     "location": "X: -6 Y: 208"
   },
   {
-    "id": "act3-64",
+    "id": 442,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Ranged",
     "name": "Fabricated Arbalest",
@@ -757,7 +769,7 @@
     "location": "Throne room X: -6 Y: 208 or \n Top floor X: -26 Y: 211"
   },
   {
-    "id": "act3-65",
+    "id": 443,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Armour",
     "name": "Cloth of Authority",
@@ -770,7 +782,7 @@
     "location": "Throne room X: -6 Y: 208 or \n Top floor X: -26 Y: 211"
   },
   {
-    "id": "act3-66",
+    "id": 444,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Feet",
     "name": "Tyrannical Jackboots",
@@ -781,7 +793,7 @@
     "location": "Throne room X: -6 Y: 208 or \n Top floor X: -26 Y: 211"
   },
   {
-    "id": "act3-67",
+    "id": 445,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Gloves",
     "name": "Gauntlet of the Tyrant",
@@ -794,7 +806,7 @@
     "location": "Throne room X: -6 Y: 208 or \n Top floor X: -26 Y: 211"
   },
   {
-    "id": "act3-68",
+    "id": 446,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Gloves",
     "name": "Servitor of the Black Hand Gloves",
@@ -806,7 +818,7 @@
     "location": "X: -32 Y: 198"
   },
   {
-    "id": "act3-69",
+    "id": 447,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Feet",
     "name": "Helldusk Boots",
@@ -819,7 +831,7 @@
     "location": "X: -32 Y: 219"
   },
   {
-    "id": "act3-70",
+    "id": 448,
     "generalArea": "Wyrm's Rock Fortress",
     "type": "Melee",
     "name": "Balduran's Giantslayer",
@@ -832,9 +844,9 @@
     "location": "Wyrmway X: 629 Y: -988"
   },
   {
-    "id": "act3-71",
-    "generalArea": "Lower City",
-    "type": "This zone can be progressed in a multitude of ways, the table below is sorted following a rough progession from east to west, and then down to the sewers.",
+    "id": 449,
+    "generalArea": "Wyrm's Rock Fortress",
+    "type": "Helm",
     "name": "Helm of Balduran",
     "effect": [
       "At the beginning of your turn, regain 2 hit points",
@@ -846,7 +858,7 @@
     "location": "Wyrmway X: 636 Y: -964"
   },
   {
-    "id": "act3-72",
+    "id": 450,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Cloth Armour",
@@ -857,7 +869,7 @@
     "location": "Heapside Prison X: -1266 Y: 744"
   },
   {
-    "id": "act3-73",
+    "id": 451,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "The Reviving Hands",
@@ -870,7 +882,7 @@
     "location": "X: 109 Y: -20"
   },
   {
-    "id": "act3-74",
+    "id": 452,
     "generalArea": "Lower City",
     "type": "Cloak",
     "name": "Mantle of the Holy Warrior",
@@ -881,7 +893,7 @@
     "location": "X: 109 Y: -20"
   },
   {
-    "id": "act3-75",
+    "id": 453,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "The Sacred Star",
@@ -895,7 +907,7 @@
     "location": "X: 109 Y: -20"
   },
   {
-    "id": "act3-76",
+    "id": 454,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Amulet of the Devout",
@@ -907,7 +919,7 @@
     "location": "Stormshore Tabernacle - Basement X: 796 Y: 1159"
   },
   {
-    "id": "act3-77",
+    "id": 455,
     "generalArea": "Lower City",
     "type": "Shield",
     "name": "Shield of Shielding",
@@ -919,7 +931,7 @@
     "location": "Stormshore Tabernacle - Basement X: 796 Y: 1159"
   },
   {
-    "id": "act3-78",
+    "id": 456,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Hammer of the Just",
@@ -932,29 +944,31 @@
     "location": "Stormshore Tabernacle - Basement X: 796 Y: 1159"
   },
   {
-    "id": "act3-79",
+    "id": 457,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Dolor Amarus",
     "effect": [
-      "On a critical hit with weapons, deal additional 7 damage"
-    ],
-    "source": "Dolor at the entrance gate of the Murder Tribunal if you arrive there with no severed hands, or otherwise at the Highberry's Home wine festival and later in the south-eastern room of the Facemaker's Boutique if not killed at the festival",
-    "location": "Murder Tribunal X: -1299 Y: 504 or\n Highberry's Home X: 27 Y: -38 or\n Facemaker's Boutique X: -166 Y: -39"
-  },
-  {
-    "id": "act3-80",
-    "generalArea": "Lower City",
-    "type": "Feet",
-    "name": "Spaceshunt Boots",
-    "effect": [
+      "On a critical hit with weapons, deal additional 7 damage",
       "Cast Dimension Door spell (long rest cd)"
     ],
     "source": "Dolor at the entrance gate of the Murder Tribunal if you arrive there with no severed hands, or otherwise at the Highberry's Home wine festival and later in the south-eastern room of the Facemaker's Boutique if not killed at the festival",
     "location": "Murder Tribunal X: -1299 Y: 504 or\n Highberry's Home X: 27 Y: -38 or\n Facemaker's Boutique X: -166 Y: -39"
   },
   {
-    "id": "act3-81",
+    "id": 458,
+    "generalArea": "Lower City",
+    "type": "Feet",
+    "name": "Spaceshunt Boots",
+    "effect": [
+      "On a critical hit with weapons, deal additional 7 damage",
+      "Cast Dimension Door spell (long rest cd)"
+    ],
+    "source": "Dolor at the entrance gate of the Murder Tribunal if you arrive there with no severed hands, or otherwise at the Highberry's Home wine festival and later in the south-eastern room of the Facemaker's Boutique if not killed at the festival",
+    "location": "Murder Tribunal X: -1299 Y: 504 or\n Highberry's Home X: 27 Y: -38 or\n Facemaker's Boutique X: -166 Y: -39"
+  },
+  {
+    "id": 459,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Scarlet Leather Armour",
@@ -965,7 +979,7 @@
     "location": "Murder Tribunal X: -1299 Y: 504 or\n Highberry's Home X: 27 Y: -38 or\n Facemaker's Boutique X: -166 Y: -39"
   },
   {
-    "id": "act3-82",
+    "id": 460,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Blackguard's Sword",
@@ -977,7 +991,7 @@
     "location": "Murder Tribunal X: -1295 Y: 502"
   },
   {
-    "id": "act3-83",
+    "id": 461,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Blackguard's Plate",
@@ -990,7 +1004,7 @@
     "location": "Murder Tribunal X: -1295 Y: 502"
   },
   {
-    "id": "act3-84",
+    "id": 462,
     "generalArea": "Lower City",
     "type": "Shield",
     "name": "Shield of the Undevout",
@@ -1003,7 +1017,7 @@
     "location": "Murder Tribunal X: -1295 Y: 502"
   },
   {
-    "id": "act3-85",
+    "id": 463,
     "generalArea": "Lower City",
     "type": "Feet",
     "name": "Blackguard's Greaves",
@@ -1015,7 +1029,7 @@
     "location": "Murder Tribunal X: -1295 Y: 502"
   },
   {
-    "id": "act3-86",
+    "id": 464,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Blackguard's Gauntlets",
@@ -1028,7 +1042,7 @@
     "location": "Murder Tribunal X: -1295 Y: 502"
   },
   {
-    "id": "act3-87",
+    "id": 465,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Sword of Chaos",
@@ -1040,7 +1054,7 @@
     "location": "Murder Tribunal X: -1267 Y: 503"
   },
   {
-    "id": "act3-88",
+    "id": 466,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Sarevok's Horned Helmet",
@@ -1052,7 +1066,7 @@
     "location": "Murder Tribunal X: -1267 Y: 503"
   },
   {
-    "id": "act3-89",
+    "id": 467,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Amulet of Bhaal",
@@ -1063,7 +1077,7 @@
     "location": "Murder Tribunal X: -1267 Y: 503"
   },
   {
-    "id": "act3-90",
+    "id": 468,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Bhaalist Gloves",
@@ -1075,7 +1089,7 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-91",
+    "id": 469,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Bhaalist Armour",
@@ -1087,7 +1101,7 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-92",
+    "id": 470,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Assassin of Bhaal Cowl",
@@ -1099,7 +1113,7 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-93",
+    "id": 471,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Craterflesh Gloves",
@@ -1110,7 +1124,29 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-94",
+    "id": 472,
+    "generalArea": "Lower City",
+    "type": "Melee",
+    "name": "Vicious Battleaxe",
+    "effect": [
+      "On a critical hit with weapons, deal additional 7 damage"
+    ],
+    "source": "Bought from Echo of Abazigal at the tribunal hall after you became the unholy assassin during Impress the Murder Tribunal",
+    "location": "Murder Tribunal X: -1261 Y: 507"
+  },
+  {
+    "id": 473,
+    "generalArea": "Lower City",
+    "type": "Melee",
+    "name": "Dolor Amarus",
+    "effect": [
+      "On a critical hit with weapons, deal additional 7 damage"
+    ],
+    "source": "Bought from Echo of Abazigal at the tribunal hall after you became the unholy assassin during Impress the Murder Tribunal",
+    "location": "Murder Tribunal X: -1261 Y: 507"
+  },
+  {
+    "id": 474,
     "generalArea": "Lower City",
     "type": "Ranged",
     "name": "Vicious Shortbow",
@@ -1121,7 +1157,7 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-95",
+    "id": 475,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Dread Iron Dagger",
@@ -1132,7 +1168,7 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-96",
+    "id": 476,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Fleshrender",
@@ -1143,7 +1179,7 @@
     "location": "Murder Tribunal X: -1261 Y: 507"
   },
   {
-    "id": "act3-97",
+    "id": 477,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "Keepsake Ring",
@@ -1154,7 +1190,7 @@
     "location": "Elfsong Basement X: -860 Y: 528"
   },
   {
-    "id": "act3-98",
+    "id": 478,
     "generalArea": "Lower City",
     "type": "Feet",
     "name": "Boots of Psionic Movement",
@@ -1167,7 +1203,7 @@
     "location": "Knights of the Shield Hideout X: -739 Y: 549"
   },
   {
-    "id": "act3-99",
+    "id": 479,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Sword of the Emperor",
@@ -1179,7 +1215,7 @@
     "location": "Knights of the Shield Hideout X: -732 Y: 588"
   },
   {
-    "id": "act3-100",
+    "id": 480,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Cerebral Citadel Armour",
@@ -1192,7 +1228,7 @@
     "location": "Knights of the Shield Hideout X: -727 Y: 589"
   },
   {
-    "id": "act3-101",
+    "id": 481,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Cerebral Citadel Gloves",
@@ -1204,7 +1240,7 @@
     "location": "Knights of the Shield Hideout X: -727 Y: 589"
   },
   {
-    "id": "act3-102",
+    "id": 482,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Kurwin's Cauteriser",
@@ -1216,7 +1252,7 @@
     "location": "X: 8 Y: 24"
   },
   {
-    "id": "act3-103",
+    "id": 483,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Armour of Persistence",
@@ -1229,7 +1265,7 @@
     "location": "X: -2 Y: -9"
   },
   {
-    "id": "act3-104",
+    "id": 484,
     "generalArea": "Lower City",
     "type": "Feet",
     "name": "Boots of Persistence",
@@ -1241,7 +1277,7 @@
     "location": "X: -2 Y: -9"
   },
   {
-    "id": "act3-105",
+    "id": 485,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Legacy of the Masters",
@@ -1253,7 +1289,7 @@
     "location": "X: -2 Y: -9"
   },
   {
-    "id": "act3-106",
+    "id": 486,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Unwanted Masterwork Scalemail",
@@ -1265,7 +1301,7 @@
     "location": "X: -2 Y: -9"
   },
   {
-    "id": "act3-107",
+    "id": 487,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Unwanted Masterwork Gauntlets",
@@ -1277,7 +1313,7 @@
     "location": "Forge of the Nine - Basement X: 392 Y: 766"
   },
   {
-    "id": "act3-108",
+    "id": 488,
     "generalArea": "Lower City",
     "type": "Feet",
     "name": "Unwanted Masterwork Greaves",
@@ -1288,7 +1324,7 @@
     "location": "Forge of the Nine - Basement X: 392 Y: 766"
   },
   {
-    "id": "act3-109",
+    "id": 489,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Gemini Gloves",
@@ -1299,7 +1335,7 @@
     "location": "X: -39 Y: 15"
   },
   {
-    "id": "act3-110",
+    "id": 490,
     "generalArea": "Lower City",
     "type": "Cloak",
     "name": "Cloak of the Weave",
@@ -1311,7 +1347,7 @@
     "location": "X: -39 Y: 15"
   },
   {
-    "id": "act3-111",
+    "id": 491,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Shapeshifter Hat",
@@ -1323,7 +1359,7 @@
     "location": "X: -39 Y: 15"
   },
   {
-    "id": "act3-112",
+    "id": 492,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Spellseeking Gloves",
@@ -1334,7 +1370,7 @@
     "location": "X: -39 Y: 15"
   },
   {
-    "id": "act3-113",
+    "id": 493,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Hellbeard Halberd",
@@ -1345,7 +1381,7 @@
     "location": "X: -39 Y: 15"
   },
   {
-    "id": "act3-114",
+    "id": 494,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Caitiff Staff",
@@ -1357,7 +1393,7 @@
     "location": "X: -39 Y: 15"
   },
   {
-    "id": "act3-115",
+    "id": 495,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Gibus of the Worshipful Servant",
@@ -1369,7 +1405,7 @@
     "location": "X: -39 Y: 15\n Bhaal Temple X: 56 Y: 1006"
   },
   {
-    "id": "act3-116",
+    "id": 496,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Mask of Soul Perception",
@@ -1381,7 +1417,7 @@
     "location": "X: -33 Y: 17"
   },
   {
-    "id": "act3-117",
+    "id": 497,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Hat of the Sharp Caster",
@@ -1392,7 +1428,7 @@
     "location": "X: -27 Y: 5"
   },
   {
-    "id": "act3-118",
+    "id": 498,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Tressym Collar",
@@ -1403,7 +1439,7 @@
     "location": "Devil's Fee X: -27 Y: 5 or\n Highberry's Home X: 1 Y: -36"
   },
   {
-    "id": "act3-119",
+    "id": 499,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Helldusk Helmet",
@@ -1417,7 +1453,7 @@
     "location": "House of Hope X: -6484 Y: 2936"
   },
   {
-    "id": "act3-120",
+    "id": 500,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Staff of Spellpower",
@@ -1429,7 +1465,7 @@
     "location": "House of Hope X: -6484 Y: 2936"
   },
   {
-    "id": "act3-121",
+    "id": 501,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Helldusk Gloves",
@@ -1443,7 +1479,7 @@
     "location": "House of Hope X: -6485 Y: 2990"
   },
   {
-    "id": "act3-122",
+    "id": 502,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Gauntlets of Hill Giant Strength",
@@ -1455,7 +1491,7 @@
     "location": "House of Hope X: -6549 Y: 2940\n X: -39 Y: 15"
   },
   {
-    "id": "act3-123",
+    "id": 503,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Amulet of Greater Health",
@@ -1467,7 +1503,7 @@
     "location": "House of Hope X: -6548 Y: 2905"
   },
   {
-    "id": "act3-124",
+    "id": 504,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Orphic Hammer",
@@ -1479,7 +1515,7 @@
     "location": "House of Hope X: -6543 Y: 2921"
   },
   {
-    "id": "act3-125",
+    "id": 505,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "Burnished Ring",
@@ -1490,7 +1526,7 @@
     "location": "Hope's Prison X: -6481 Y: 2921"
   },
   {
-    "id": "act3-126",
+    "id": 506,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Helldusk Armour",
@@ -1504,7 +1540,7 @@
     "location": "House of Hope X: -6477 Y: 2884"
   },
   {
-    "id": "act3-127",
+    "id": 507,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Gloves of Soul Catching",
@@ -1517,7 +1553,7 @@
     "location": "House of Hope X: -6477 Y: 2884"
   },
   {
-    "id": "act3-128",
+    "id": 508,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Amulet of Elemental Torment",
@@ -1528,7 +1564,7 @@
     "location": "House of Hope X: -6477 Y: 2884"
   },
   {
-    "id": "act3-129",
+    "id": 509,
     "generalArea": "Lower City",
     "type": "Feet",
     "name": "Slinging Shoes",
@@ -1540,7 +1576,7 @@
     "location": "X: -1 Y: -39"
   },
   {
-    "id": "act3-130",
+    "id": 510,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Winter's Clutches",
@@ -1551,7 +1587,7 @@
     "location": "X: -2 Y: -66"
   },
   {
-    "id": "act3-131",
+    "id": 511,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Gold Wyrmling Staff",
@@ -1563,7 +1599,7 @@
     "location": "X: -2 Y: -66"
   },
   {
-    "id": "act3-132",
+    "id": 512,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Coldbrim Hat",
@@ -1574,7 +1610,7 @@
     "location": "X: -2 Y: -66"
   },
   {
-    "id": "act3-133",
+    "id": 513,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Quickspell Gloves",
@@ -1585,7 +1621,7 @@
     "location": "X: -7 Y: -79"
   },
   {
-    "id": "act3-134",
+    "id": 514,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "Ring of Regeneration",
@@ -1596,7 +1632,7 @@
     "location": "X: -7 Y: -79"
   },
   {
-    "id": "act3-135",
+    "id": 515,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Vest of Soul Rejuvenation",
@@ -1609,7 +1645,7 @@
     "location": "X: -7 Y: -79"
   },
   {
-    "id": "act3-136",
+    "id": 516,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Armour of Landfall",
@@ -1623,7 +1659,7 @@
     "location": "X: -7 Y: -79"
   },
   {
-    "id": "act3-137",
+    "id": 517,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Birthright",
@@ -1634,7 +1670,7 @@
     "location": "X: -7 Y: -79"
   },
   {
-    "id": "act3-138",
+    "id": 518,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Harper Sacredstriker",
@@ -1645,7 +1681,7 @@
     "location": "X: -7 Y: -79"
   },
   {
-    "id": "act3-139",
+    "id": 519,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Despair of Athkatla",
@@ -1656,7 +1692,7 @@
     "location": "Ramazith's Tower X: 4962 Y: 704"
   },
   {
-    "id": "act3-140",
+    "id": 520,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Shelter of Athkatla",
@@ -1668,7 +1704,7 @@
     "location": "Ramazith's Tower X: 4962 Y: 704"
   },
   {
-    "id": "act3-141",
+    "id": 521,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Markoheshkir",
@@ -1681,7 +1717,7 @@
     "location": "Ramazith's Tower X: 4970 Y: 705"
   },
   {
-    "id": "act3-142",
+    "id": 522,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Robe of the Weave",
@@ -1694,7 +1730,7 @@
     "location": "Ramazith's Tower X: 4970 Y: 705"
   },
   {
-    "id": "act3-143",
+    "id": 523,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Foebreaker",
@@ -1705,7 +1741,7 @@
     "location": "Sorcerous Vault X: 326 Y: 998"
   },
   {
-    "id": "act3-144",
+    "id": 524,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Pyroquickness Hat",
@@ -1716,7 +1752,7 @@
     "location": "Sorcerous Vault X: 411 Y: 997"
   },
   {
-    "id": "act3-145",
+    "id": 525,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Hellfire Greataxe",
@@ -1729,7 +1765,7 @@
     "location": "Sorcerous Vault X: 365 Y: 940"
   },
   {
-    "id": "act3-146",
+    "id": 526,
     "generalArea": "Lower City",
     "type": "Ranged",
     "name": "The Dead Shot",
@@ -1741,7 +1777,7 @@
     "location": "X: -36 Y: -80"
   },
   {
-    "id": "act3-147",
+    "id": 527,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Flail of Ages",
@@ -1753,7 +1789,7 @@
     "location": "X: -36 Y: -80"
   },
   {
-    "id": "act3-148",
+    "id": 528,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Armour of Agility",
@@ -1765,7 +1801,7 @@
     "location": "X: -37 Y: -77"
   },
   {
-    "id": "act3-149",
+    "id": 529,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Infernal Mace",
@@ -1776,7 +1812,7 @@
     "location": "Felogyr's Fireworks\n Steel Watch Foundry"
   },
   {
-    "id": "act3-150",
+    "id": 530,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Veil of the Morning",
@@ -1788,7 +1824,7 @@
     "location": "X: 7 Y: -159"
   },
   {
-    "id": "act3-151",
+    "id": 531,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Armour of the Sporekeeper",
@@ -1800,7 +1836,7 @@
     "location": "X: 7 Y: -159"
   },
   {
-    "id": "act3-152",
+    "id": 532,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Hood of the Weave",
@@ -1811,7 +1847,7 @@
     "location": "X: 7 Y: -159"
   },
   {
-    "id": "act3-153",
+    "id": 533,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Torch of Revocation",
@@ -1823,7 +1859,7 @@
     "location": "X: 7 Y: -159"
   },
   {
-    "id": "act3-154",
+    "id": 534,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Staff of Cherished Necromancy",
@@ -1836,7 +1872,7 @@
     "location": "X: 7 Y: -159"
   },
   {
-    "id": "act3-155",
+    "id": 535,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "Crypt Lord Ring",
@@ -1847,7 +1883,7 @@
     "location": "X: 7 Y: -159"
   },
   {
-    "id": "act3-156",
+    "id": 536,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Helmet of Grit",
@@ -1859,7 +1895,7 @@
     "location": "Szarr Palace X: -1298 Y: 965"
   },
   {
-    "id": "act3-157",
+    "id": 537,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Pelorsun Blade",
@@ -1871,7 +1907,7 @@
     "location": "Cazador's Dungeon X: -1928 Y: 852"
   },
   {
-    "id": "act3-158",
+    "id": 538,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Rhapsody",
@@ -1883,7 +1919,7 @@
     "location": "Cazador's Dungeon X: -1925 Y: 944"
   },
   {
-    "id": "act3-159",
+    "id": 539,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Woe",
@@ -1897,7 +1933,7 @@
     "location": "Cazador's Dungeon X: -1925 Y: 944"
   },
   {
-    "id": "act3-160",
+    "id": 540,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "The Undead Bane",
@@ -1909,7 +1945,7 @@
     "location": "Cazador's Dungeon X: -1925 Y: 836"
   },
   {
-    "id": "act3-161",
+    "id": 541,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Salty Scimitar(rrr)",
@@ -1920,7 +1956,7 @@
     "location": "Mermaid Basement X: -2339 Y: -127"
   },
   {
-    "id": "act3-162",
+    "id": 542,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Tarnished Charm",
@@ -1931,7 +1967,7 @@
     "location": "The Blushing Mermaid - Basement X: -2329 Y: -95"
   },
   {
-    "id": "act3-163",
+    "id": 543,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "Ring of Feywild Sparks",
@@ -1942,7 +1978,7 @@
     "location": "The Blushing Mermaid - Basement X: -2329 Y: -95"
   },
   {
-    "id": "act3-164",
+    "id": 544,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Amulet of Windrider",
@@ -1954,7 +1990,7 @@
     "location": "X: -65 Y: -89"
   },
   {
-    "id": "act3-165",
+    "id": 545,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Duellist's Prerogative",
@@ -1969,7 +2005,7 @@
     "location": "X: -65 Y: -89"
   },
   {
-    "id": "act3-166",
+    "id": 546,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Fey Semblance Amulet",
@@ -1980,7 +2016,7 @@
     "location": "X: -55 Y: -147"
   },
   {
-    "id": "act3-167",
+    "id": 547,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Staff of Interruption",
@@ -1991,7 +2027,7 @@
     "location": "X: -55 Y: -147"
   },
   {
-    "id": "act3-168",
+    "id": 548,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Murderous Cut",
@@ -2002,7 +2038,7 @@
     "location": "Bloomridge Park\n The Counting House\n Lower City Sewers"
   },
   {
-    "id": "act3-169",
+    "id": 549,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Amulet of Restoration",
@@ -2014,7 +2050,7 @@
     "location": "The Counting House X: -85 Y: -185"
   },
   {
-    "id": "act3-170",
+    "id": 550,
     "generalArea": "Lower City",
     "type": "Cloak",
     "name": "Nymph Cloak",
@@ -2025,7 +2061,7 @@
     "location": "The Counting House X: -711 Y: 864"
   },
   {
-    "id": "act3-171",
+    "id": 551,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Spell Savant Amulet",
@@ -2036,7 +2072,7 @@
     "location": "The Counting House X: -711 Y: 864"
   },
   {
-    "id": "act3-172",
+    "id": 552,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Jannath's Hat",
@@ -2048,7 +2084,7 @@
     "location": "The Counting House X: -714 Y: 863"
   },
   {
-    "id": "act3-173",
+    "id": 553,
     "generalArea": "Lower City",
     "type": "Ranged",
     "name": "The Long Arm of the Gur",
@@ -2059,7 +2095,7 @@
     "location": "The Counting House X: -718 Y: 861"
   },
   {
-    "id": "act3-174",
+    "id": 554,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Trident of the Waves",
@@ -2070,7 +2106,7 @@
     "location": "The Counting House X: -711 Y: 882"
   },
   {
-    "id": "act3-175",
+    "id": 555,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Ravengard's Scourger",
@@ -2081,7 +2117,7 @@
     "location": "The Counting House X: -712 Y: 882"
   },
   {
-    "id": "act3-176",
+    "id": 556,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Knock Knuckle Gloves",
@@ -2093,7 +2129,7 @@
     "location": "The Counting House X: -719 Y: 871"
   },
   {
-    "id": "act3-177",
+    "id": 557,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Elegant Studded Leather",
@@ -2106,7 +2142,7 @@
     "location": "The Counting House X: -686 Y: 874"
   },
   {
-    "id": "act3-178",
+    "id": 558,
     "generalArea": "Lower City",
     "type": "Shield",
     "name": "Abdel's Trusted Shield",
@@ -2118,7 +2154,7 @@
     "location": "X: -148 Y: -60"
   },
   {
-    "id": "act3-179",
+    "id": 559,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Katana",
@@ -2129,7 +2165,7 @@
     "location": "Golbraith's Basement X: -2343 Y: 811"
   },
   {
-    "id": "act3-180",
+    "id": 560,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Unflinching Protector Amulet",
@@ -2140,7 +2176,7 @@
     "location": "The Lodge Docks X: -1283 Y: 252"
   },
   {
-    "id": "act3-181",
+    "id": 561,
     "generalArea": "Lower City",
     "type": "Staff",
     "name": "Staff of the Ram",
@@ -2151,7 +2187,7 @@
     "location": "Elerrathin's Home - Basement X: -1572 Y: 976"
   },
   {
-    "id": "act3-182",
+    "id": 562,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Belm",
@@ -2163,7 +2199,7 @@
     "location": "Elerrathin's Home - Basement X: -1572 Y: 976"
   },
   {
-    "id": "act3-183",
+    "id": 563,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Khalid's Gift",
@@ -2176,7 +2212,7 @@
     "location": "Elerrathin's Home - Basement X: -1572 Y: 976"
   },
   {
-    "id": "act3-184",
+    "id": 564,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "After Death Do Us Part",
@@ -2187,7 +2223,7 @@
     "location": "X: -250 Y: -44"
   },
   {
-    "id": "act3-185",
+    "id": 565,
     "generalArea": "Lower City",
     "type": "Ring",
     "name": "Til Death Do Us Part",
@@ -2198,7 +2234,7 @@
     "location": "X: -250 Y: -44"
   },
   {
-    "id": "act3-186",
+    "id": 566,
     "generalArea": "Lower City",
     "type": "Shield",
     "name": "Viconia's Walking Fortress",
@@ -2212,7 +2248,7 @@
     "location": "Cloister of Sombre Embrace X: -400 Y: -1651"
   },
   {
-    "id": "act3-187",
+    "id": 567,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Viconia's Priestess Robe",
@@ -2225,7 +2261,7 @@
     "location": "Cloister of Sombre Embrace X: -400 Y: -1651"
   },
   {
-    "id": "act3-188",
+    "id": 568,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Handmaiden's Mace",
@@ -2237,7 +2273,7 @@
     "location": "Cloister of Sombre Embrace X: -400 Y: -1651"
   },
   {
-    "id": "act3-189",
+    "id": 569,
     "generalArea": "Lower City",
     "type": "Cloak",
     "name": "Wavemother's Cloak",
@@ -2248,7 +2284,7 @@
     "location": "X: -246 Y: -249"
   },
   {
-    "id": "act3-190",
+    "id": 570,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Wavemother's Robe",
@@ -2262,7 +2298,7 @@
     "location": "Flymm Cargo Basement X: -1048 Y: 312"
   },
   {
-    "id": "act3-191",
+    "id": 571,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Wavemother's Sickle",
@@ -2274,7 +2310,7 @@
     "location": "X: -229 Y: -261 or\n X: -244 Y: -251"
   },
   {
-    "id": "act3-192",
+    "id": 572,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Steelwatcher Helmet",
@@ -2286,7 +2322,7 @@
     "location": "X: -275 Y: -134"
   },
   {
-    "id": "act3-193",
+    "id": 573,
     "generalArea": "Lower City",
     "type": "Ranged",
     "name": "Hellfire Engine Crossbow",
@@ -2298,7 +2334,7 @@
     "location": "X: -325 Y: -134"
   },
   {
-    "id": "act3-194",
+    "id": 574,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Winkling Gloves",
@@ -2310,7 +2346,7 @@
     "location": "X: -331 Y: -147 or\n Steel Watch Foundry Lab"
   },
   {
-    "id": "act3-195",
+    "id": 575,
     "generalArea": "Lower City",
     "type": "Ranged",
     "name": "Gontr Mael",
@@ -2324,7 +2360,7 @@
     "location": "Steel Watch Foundry Lab X: -1952 Y: 206"
   },
   {
-    "id": "act3-196",
+    "id": 576,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Drunken Cloth",
@@ -2335,7 +2371,7 @@
     "location": "Lower City Sewers X: -22 Y: 769"
   },
   {
-    "id": "act3-197",
+    "id": 577,
     "generalArea": "Lower City",
     "type": "Cloak",
     "name": "Shade-Slayer Cloak",
@@ -2346,7 +2382,7 @@
     "location": "Lower City Sewers X: -17 Y: 755"
   },
   {
-    "id": "act3-198",
+    "id": 578,
     "generalArea": "Lower City",
     "type": "Cloak",
     "name": "Cindermoth Cloak",
@@ -2357,7 +2393,7 @@
     "location": "Lower City Sewers X: -123 Y: 834"
   },
   {
-    "id": "act3-199",
+    "id": 579,
     "generalArea": "Lower City",
     "type": "Amulet",
     "name": "Chancer's Carcanet",
@@ -2368,7 +2404,7 @@
     "location": "Lower City Sewers X: -125 Y: 829"
   },
   {
-    "id": "act3-200",
+    "id": 580,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Silver Sword of the Astral Plane",
@@ -2381,7 +2417,7 @@
     "location": "Lower City Sewers X: -70 Y: 826"
   },
   {
-    "id": "act3-201",
+    "id": 581,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Armour of Moonbasking",
@@ -2393,7 +2429,7 @@
     "location": "Lower City Sewers X: -157 Y: 939"
   },
   {
-    "id": "act3-202",
+    "id": 582,
     "generalArea": "Lower City",
     "type": "Helm",
     "name": "Bonespike Helmet",
@@ -2406,7 +2442,7 @@
     "location": "Lower City Sewers X: -157 Y: 939"
   },
   {
-    "id": "act3-203",
+    "id": 583,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Breaching Pikestaff",
@@ -2417,7 +2453,7 @@
     "location": "Ancient Lair X: -1385 Y: 60"
   },
   {
-    "id": "act3-204",
+    "id": 584,
     "generalArea": "Lower City",
     "type": "Gloves",
     "name": "Bonespike Gloves",
@@ -2428,7 +2464,7 @@
     "location": "Lower City Sewers X: -136 Y: 980"
   },
   {
-    "id": "act3-205",
+    "id": 585,
     "generalArea": "Lower City",
     "type": "Melee",
     "name": "Crimson Mischief",
@@ -2442,7 +2478,7 @@
     "location": "Lower City Sewers X: 61 Y: 1004"
   },
   {
-    "id": "act3-206",
+    "id": 586,
     "generalArea": "Lower City",
     "type": "Armour",
     "name": "Mutilated Carapace",
@@ -2455,9 +2491,9 @@
     "location": "Lower City Sewers X: 61 Y: 1004"
   },
   {
-    "id": "act3-207",
-    "generalArea": "The High Hall",
-    "type": "This area is only accessible after travelling to the Morphic Pool at the very end of the game.",
+    "id": 587,
+    "generalArea": "Lower City",
+    "type": "Melee",
     "name": "Bloodthirst",
     "effect": [
       "Reduce the number you need to roll a critical hit while attacking by 1. This effect stacks",
@@ -2470,7 +2506,7 @@
     "location": "Lower City Sewers X: 61 Y: 1004"
   },
   {
-    "id": "act3-208",
+    "id": 588,
     "generalArea": "The High Hall",
     "type": "Amulet",
     "name": "Broodmother's Revenge",
@@ -2481,7 +2517,7 @@
     "location": "X: 235 Y: 44"
   },
   {
-    "id": "act3-209",
+    "id": 589,
     "generalArea": "The High Hall",
     "type": "Melee",
     "name": "Steelforged Sword",
@@ -2492,7 +2528,7 @@
     "location": "X: 235 Y: 44"
   },
   {
-    "id": "act3-210",
+    "id": 590,
     "generalArea": "The High Hall",
     "type": "Melee",
     "name": "Thermodynamo Axe",
@@ -2503,7 +2539,7 @@
     "location": "X: 235 Y: 44"
   },
   {
-    "id": "act3-211",
+    "id": 591,
     "generalArea": "The High Hall",
     "type": "Melee",
     "name": "Blade of Oppressed Souls",
@@ -2515,7 +2551,7 @@
     "location": "X: 235 Y: 44"
   },
   {
-    "id": "act3-212",
+    "id": 592,
     "generalArea": "Other",
     "type": "Melee",
     "name": "Devotee's Mace",
