@@ -31,7 +31,7 @@ import {
 import { useCompletedItemsStore } from "@/stores/completed-items-store";
 import { cn } from "@/lib/utils";
 import { Input } from "@/components/ui/input";
-import { Button } from "./ui/button";
+import { Button } from "@/components/ui/button";
 import {
   CheckCheck,
   ChevronLeft,
@@ -40,10 +40,15 @@ import {
   ChevronsRight,
   Eye,
   EyeOff,
+  Sparkles,
   Undo2,
 } from "lucide-react";
 import { useMemo } from "react";
 import { useHiddenItemsStore } from "@/stores/hidden-items-store";
+import { Tooltip } from "@/components/tooltip";
+
+import bg3BuildsEquipmentData from "@/data/bg3-builds-equipment.min.json";
+import { type Bg3BuildsEquipment } from "@/types/bg3-builds-equipment";
 
 const columns: ColumnDef<ItemWithAct>[] = [
   {
@@ -71,6 +76,38 @@ const columns: ColumnDef<ItemWithAct>[] = [
     ),
   },
   {
+    id: "partOfBuild",
+    accessorFn: (row) => {
+      const bg3BuildsEquipment: Bg3BuildsEquipment = bg3BuildsEquipmentData;
+      const buildNames = Object.keys(bg3BuildsEquipment.itemsByBuild);
+      const partOfBuild = buildNames.filter((buildName) =>
+        bg3BuildsEquipment.itemsByBuild[buildName].includes(row.name)
+      );
+      return partOfBuild.length > 0 ? partOfBuild.join(", ") : "No builds";
+    },
+    header: undefined, // No header for this column;
+    cell: ({ getValue }) => {
+      const partOfBuild = getValue<string>();
+      if (partOfBuild === "No builds") {
+        return null;
+      }
+      return (
+        <HoverCard openDelay={100} closeDelay={100}>
+          <HoverCardTrigger>
+            <Sparkles className="text-muted-foreground hover:text-primary" />
+          </HoverCardTrigger>
+          <HoverCardContent className="text-xs">
+            <ul className="list-disc pl-4">
+              {partOfBuild.split(", ").map((build, idx) => (
+                <li key={idx}>{build}</li>
+              ))}
+            </ul>
+          </HoverCardContent>
+        </HoverCard>
+      );
+    },
+  },
+  {
     accessorKey: "type",
     header: "Type",
   },
@@ -81,8 +118,17 @@ const columns: ColumnDef<ItemWithAct>[] = [
   {
     accessorKey: "source",
     header: "Source",
-    cell: ({ row }) => {
-      return <p className="text-wrap">{row.original.source}</p>;
+    cell: ({ getValue }) => {
+      const MAX_CHARS = 50;
+      const source = getValue<string>();
+      if (source.length < MAX_CHARS) {
+        return <p>{source}</p>;
+      }
+      return (
+        <Tooltip content={source}>
+          <p>{source.slice(0, MAX_CHARS)}…</p>
+        </Tooltip>
+      );
     },
   },
   {
