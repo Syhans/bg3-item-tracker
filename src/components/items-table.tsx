@@ -49,6 +49,9 @@ import { Tooltip } from "@/components/tooltip";
 
 import bg3BuildsEquipmentData from "@/data/bg3-builds-equipment.min.json";
 import { type Bg3BuildsEquipment } from "@/types/bg3-builds-equipment";
+import { useBuildsStore } from "@/stores/builds-store";
+
+const bg3BuildsEquipment: Bg3BuildsEquipment = bg3BuildsEquipmentData;
 
 const columns: ColumnDef<ItemWithAct>[] = [
   {
@@ -78,7 +81,6 @@ const columns: ColumnDef<ItemWithAct>[] = [
   {
     id: "partOfBuild",
     accessorFn: (row) => {
-      const bg3BuildsEquipment: Bg3BuildsEquipment = bg3BuildsEquipmentData;
       const buildNames = Object.keys(bg3BuildsEquipment.itemsByBuild);
       const partOfBuild = buildNames.filter((buildName) =>
         bg3BuildsEquipment.itemsByBuild[buildName].includes(row.name)
@@ -199,29 +201,49 @@ export function ItemsTable({
   items = [],
   showCompletedItems = false,
   showHiddenItems = false,
+  showPartOfBuildOnly = false,
 }: {
   items: ItemWithAct[];
   showCompletedItems?: boolean | "indeterminate";
   showHiddenItems?: boolean | "indeterminate";
+  showPartOfBuildOnly?: boolean | "indeterminate";
 }) {
   const completedItems = useCompletedItemsStore(
     (state) => state.completedItems
   );
   const hiddenItems = useHiddenItemsStore((state) => state.hiddenItems);
+  const builds = useBuildsStore((state) => state.activeBuilds);
 
   const filteredItems = useMemo(() => {
     return items.filter((item) => {
       const isCompleted = completedItems.includes(item.id);
       const isHidden = hiddenItems.includes(item.id);
+      const buildsWithItem = bg3BuildsEquipment.buildsByItem[item.name] ?? [];
       if (!showCompletedItems && isCompleted) {
         return false;
       }
       if (!showHiddenItems && isHidden) {
         return false;
       }
+      if (showPartOfBuildOnly && builds.length > 0) {
+        const isPartOfBuild = builds.some((build) =>
+          buildsWithItem.includes(build)
+        );
+        if (!isPartOfBuild) {
+          return false;
+        }
+      }
       return true;
     });
-  }, [completedItems, hiddenItems, items, showCompletedItems, showHiddenItems]);
+  }, [
+    completedItems,
+    hiddenItems,
+    items,
+    showCompletedItems,
+    showHiddenItems,
+    builds,
+    showPartOfBuildOnly,
+  ]);
 
   const table = useReactTable({
     data: filteredItems,

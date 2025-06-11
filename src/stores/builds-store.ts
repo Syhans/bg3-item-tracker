@@ -10,13 +10,19 @@ const defaultBuilds = Object.keys(bg3BuildsEquipment.itemsByBuild);
 
 interface BuildsState {
   activeBuilds: string[];
+  isBuildActive: (buildName: string) => boolean;
   toggleBuild: (buildName: string) => void;
+  enableAllBuilds: () => void;
+  disableAllBuilds: () => void;
 }
 
 export const useBuildsStore = create<BuildsState>()(
   persist(
-    (set) => ({
+    (set, get) => ({
       activeBuilds: defaultBuilds,
+      isBuildActive: (buildName: string) => {
+        return get().activeBuilds.includes(buildName);
+      },
       toggleBuild: (buildName) => {
         set((state) => {
           const isActive = state.activeBuilds.includes(buildName);
@@ -26,6 +32,12 @@ export const useBuildsStore = create<BuildsState>()(
               : [...state.activeBuilds, buildName],
           };
         });
+      },
+      enableAllBuilds: () => {
+        set({ activeBuilds: defaultBuilds });
+      },
+      disableAllBuilds: () => {
+        set({ activeBuilds: [] });
       },
     }),
     {
